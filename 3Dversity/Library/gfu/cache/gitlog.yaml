@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1dd4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2019-04-19T21:53:20.266-04:00
+  initializedAtString: 2019-04-19T21:49:43.187-04:00
+  log:
+  - commitID: 2b04d9221cca778fd86fbf701c5574af4ea9ce1b
+    mergeA: 
+    mergeB: 
+    authorName: TheInventorist
+    authorEmail: TheInventorist@users.noreply.github.com
+    commitEmail: TheInventorist@users.noreply.github.com
+    commitName: TheInventorist
+    summary: Cambio del nombre del proyecto
+    description: "Cambio del nombre del proyecto\r\n\r\ncambio del nombre del proyecto
+      para trabajar en cualquier area con un nombre fijo, sin estar apuntando a una
+      sola materia"
+    timeString: 2019-04-19T21:34:57.000-04:00
+    commitTimeString: 2019-04-19T21:34:57.000-04:00
+    changes:
+    - path: README.md
+      fullPath: C:\Users\vince\Documents\GitHub\3Dversity\README.md
+      projectPath: ..\README.md
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: 2e92fe1dee738df102402180ec730508c35708b0
+    mergeA: 
+    mergeB: 
+    authorName: TheInventorist
+    authorEmail: TheInventorist@users.noreply.github.com
+    commitEmail: TheInventorist@users.noreply.github.com
+    commitName: TheInventorist
+    summary: cambio del readme
+    description: "cambio del readme\r\n\r\ncambie el titulo del proyecto"
+    timeString: 2019-04-19T13:46:04.000-04:00
+    commitTimeString: 2019-04-19T13:46:04.000-04:00
+    changes:
+    - path: README.md
+      fullPath: C:\Users\vince\Documents\GitHub\3Dversity\README.md
+      projectPath: ..\README.md
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: 0e987150f3b0fbfbd1d5f174e49fbbe4f0d14139
+    mergeA: 
+    mergeB: 
+    authorName: TheInventorist
+    authorEmail: TheInventorist@users.noreply.github.com
+    commitEmail: TheInventorist@users.noreply.github.com
+    commitName: TheInventorist
+    summary: primer commit
+    description: "primer commit\r\n\r\neste es el primer commit del proyecto"
+    timeString: 2019-04-19T13:35:20.000-04:00
+    commitTimeString: 2019-04-19T13:35:20.000-04:00
+    changes:
+    - path: README.md
+      fullPath: C:\Users\vince\Documents\GitHub\3Dversity\README.md
+      projectPath: ..\README.md
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: 7465319b4f2670a33fc464f72eca7457f43f6ea1
+    mergeA: 
+    mergeB: 
+    authorName: TheInventorist
+    authorEmail: 49379479+TheInventorist@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Initial commit
+    description: Initial commit
+    timeString: 2019-04-07T22:27:07.000-04:00
+    commitTimeString: 2019-04-07T22:27:07.000-04:00
+    changes:
+    - path: README.md
+      fullPath: C:\Users\vince\Documents\GitHub\3Dversity\README.md
+      projectPath: ..\README.md
+      originalPath: 
+      status: 4
+      staged: 0
