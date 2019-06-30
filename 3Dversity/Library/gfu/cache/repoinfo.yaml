@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2019-04-19T22:10:17.189-04:00
-  initializedAtString: 2019-04-19T22:10:17.189-04:00
+  lastUpdatedAtString: 2019-06-27T20:40:33.423-04:00
+  initializedAtString: 2019-06-27T20:40:33.423-04:00
   currentGitRemote:
     name: origin
     url: https://github.com/TheInventorist/3DMed.git
@@ -23,14 +23,14 @@ MonoBehaviour:
     function: 0
     token: 
   currentGitBranch:
-    name: master
-    tracking: origin/master
+    name: modelos
+    tracking: origin/modelos
   currentConfigBranch:
-    name: master
+    name: modelos
     remote:
       name: origin
       url: https://github.com/TheInventorist/3DMed.git
-    trackingBranch: master
+    trackingBranch: modelos
   currentConfigRemote:
     name: origin
     url: https://github.com/TheInventorist/3DMed.git
