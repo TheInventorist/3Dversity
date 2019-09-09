@@ -12,6 +12,7 @@ la demo del proyecto en su ultima version, se encuentra en el repositorio en la 
 ## Clonacion e instalacion del ambiente de trabajo para compilar en una maquina propia.
 
 1) Clonar el proyecto en una carpeta en nuestro PC
+    ![asd](master/fotos/1.png)
 
 2) abrir el proyecto con Unity3D HUB (https://unity3d.com/es/get-unity/download)
 
