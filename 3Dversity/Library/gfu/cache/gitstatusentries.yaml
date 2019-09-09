@@ -13,231 +13,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2019-09-09T18:30:17.614-03:00
-  initializedAtString: 2019-09-09T17:41:49.019-03:00
+  lastUpdatedAtString: 2019-09-09T18:44:35.587-03:00
+  initializedAtString: 2019-09-09T18:44:00.738-03:00
   entries:
-  - path: 3Dversity\Assets\Scenes\Game.unity
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Assets\Scenes\Game.unity
-    projectPath: Assets\Scenes\Game.unity
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: 3Dversity\Assets\Scenes\menu.unity
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Assets\Scenes\menu.unity
-    projectPath: Assets\Scenes\menu.unity
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: 3Dversity\Assets\Scripts\login.cs
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Assets\Scripts\login.cs
-    projectPath: Assets\Scripts\login.cs
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: 3Dversity\Assets\Scripts\seleccionador.cs
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Assets\Scripts\seleccionador.cs
-    projectPath: Assets\Scripts\seleccionador.cs
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: 3Dversity\Assets\Scripts\Zoom.cs
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Assets\Scripts\Zoom.cs
-    projectPath: Assets\Scripts\Zoom.cs
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: 3Dversity\demo\3Dversity_Data\app.info
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\demo\3Dversity_Data\app.info
-    projectPath: demo\3Dversity_Data\app.info
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: 3Dversity\demo\3Dversity_Data\boot.config
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\demo\3Dversity_Data\boot.config
-    projectPath: demo\3Dversity_Data\boot.config
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: 3Dversity\demo\3Dversity_Data\globalgamemanagers
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\demo\3Dversity_Data\globalgamemanagers
-    projectPath: demo\3Dversity_Data\globalgamemanagers
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: 3Dversity\demo\3Dversity_Data\level0
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\demo\3Dversity_Data\level0
-    projectPath: demo\3Dversity_Data\level0
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: 3Dversity\demo\3Dversity_Data\level1
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\demo\3Dversity_Data\level1
-    projectPath: demo\3Dversity_Data\level1
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: 3Dversity\demo\3Dversity_Data\Managed\Assembly-CSharp.dll
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\demo\3Dversity_Data\Managed\Assembly-CSharp.dll
-    projectPath: demo\3Dversity_Data\Managed\Assembly-CSharp.dll
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: 3Dversity\demo\3Dversity_Data\Managed\com.unity.multiplayer-hlapi.Runtime.dll
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\demo\3Dversity_Data\Managed\com.unity.multiplayer-hlapi.Runtime.dll
-    projectPath: demo\3Dversity_Data\Managed\com.unity.multiplayer-hlapi.Runtime.dll
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: 3Dversity\demo\3Dversity_Data\Managed\Unity.Analytics.DataPrivacy.dll
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\demo\3Dversity_Data\Managed\Unity.Analytics.DataPrivacy.dll
-    projectPath: demo\3Dversity_Data\Managed\Unity.Analytics.DataPrivacy.dll
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: 3Dversity\demo\3Dversity_Data\Managed\Unity.TextMeshPro.dll
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\demo\3Dversity_Data\Managed\Unity.TextMeshPro.dll
-    projectPath: demo\3Dversity_Data\Managed\Unity.TextMeshPro.dll
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: 3Dversity\demo\3Dversity_Data\Managed\Unity.Timeline.dll
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\demo\3Dversity_Data\Managed\Unity.Timeline.dll
-    projectPath: demo\3Dversity_Data\Managed\Unity.Timeline.dll
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: 3Dversity\demo\3Dversity_Data\Managed\UnityEngine.SpatialTracking.dll
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\demo\3Dversity_Data\Managed\UnityEngine.SpatialTracking.dll
-    projectPath: demo\3Dversity_Data\Managed\UnityEngine.SpatialTracking.dll
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: 3Dversity\demo\3Dversity_Data\Managed\UnityEngine.UI.dll
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\demo\3Dversity_Data\Managed\UnityEngine.UI.dll
-    projectPath: demo\3Dversity_Data\Managed\UnityEngine.UI.dll
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: 3Dversity\demo\3Dversity_Data\Managed\UnityEngine.XR.LegacyInputHelpers.dll
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\demo\3Dversity_Data\Managed\UnityEngine.XR.LegacyInputHelpers.dll
-    projectPath: demo\3Dversity_Data\Managed\UnityEngine.XR.LegacyInputHelpers.dll
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: 3Dversity\demo\3Dversity_Data\resources.assets
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\demo\3Dversity_Data\resources.assets
-    projectPath: demo\3Dversity_Data\resources.assets
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: 3Dversity\demo\MonoBleedingEdge\etc\mono\2.0\Browsers\Compat.browser
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\demo\MonoBleedingEdge\etc\mono\2.0\Browsers\Compat.browser
-    projectPath: demo\MonoBleedingEdge\etc\mono\2.0\Browsers\Compat.browser
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: 3Dversity\demo\MonoBleedingEdge\etc\mono\2.0\DefaultWsdlHelpGenerator.aspx
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\demo\MonoBleedingEdge\etc\mono\2.0\DefaultWsdlHelpGenerator.aspx
-    projectPath: demo\MonoBleedingEdge\etc\mono\2.0\DefaultWsdlHelpGenerator.aspx
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: 3Dversity\demo\MonoBleedingEdge\etc\mono\2.0\machine.config
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\demo\MonoBleedingEdge\etc\mono\2.0\machine.config
-    projectPath: demo\MonoBleedingEdge\etc\mono\2.0\machine.config
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: 3Dversity\demo\MonoBleedingEdge\etc\mono\2.0\settings.map
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\demo\MonoBleedingEdge\etc\mono\2.0\settings.map
-    projectPath: demo\MonoBleedingEdge\etc\mono\2.0\settings.map
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: 3Dversity\demo\MonoBleedingEdge\etc\mono\2.0\web.config
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\demo\MonoBleedingEdge\etc\mono\2.0\web.config
-    projectPath: demo\MonoBleedingEdge\etc\mono\2.0\web.config
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: 3Dversity\demo\MonoBleedingEdge\etc\mono\4.0\Browsers\Compat.browser
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\demo\MonoBleedingEdge\etc\mono\4.0\Browsers\Compat.browser
-    projectPath: demo\MonoBleedingEdge\etc\mono\4.0\Browsers\Compat.browser
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: 3Dversity\demo\MonoBleedingEdge\etc\mono\4.0\DefaultWsdlHelpGenerator.aspx
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\demo\MonoBleedingEdge\etc\mono\4.0\DefaultWsdlHelpGenerator.aspx
-    projectPath: demo\MonoBleedingEdge\etc\mono\4.0\DefaultWsdlHelpGenerator.aspx
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: 3Dversity\demo\MonoBleedingEdge\etc\mono\4.0\machine.config
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\demo\MonoBleedingEdge\etc\mono\4.0\machine.config
-    projectPath: demo\MonoBleedingEdge\etc\mono\4.0\machine.config
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: 3Dversity\demo\MonoBleedingEdge\etc\mono\4.0\settings.map
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\demo\MonoBleedingEdge\etc\mono\4.0\settings.map
-    projectPath: demo\MonoBleedingEdge\etc\mono\4.0\settings.map
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: 3Dversity\demo\MonoBleedingEdge\etc\mono\4.0\web.config
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\demo\MonoBleedingEdge\etc\mono\4.0\web.config
-    projectPath: demo\MonoBleedingEdge\etc\mono\4.0\web.config
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: 3Dversity\demo\MonoBleedingEdge\etc\mono\4.5\Browsers\Compat.browser
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\demo\MonoBleedingEdge\etc\mono\4.5\Browsers\Compat.browser
-    projectPath: demo\MonoBleedingEdge\etc\mono\4.5\Browsers\Compat.browser
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: 3Dversity\demo\MonoBleedingEdge\etc\mono\4.5\DefaultWsdlHelpGenerator.aspx
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\demo\MonoBleedingEdge\etc\mono\4.5\DefaultWsdlHelpGenerator.aspx
-    projectPath: demo\MonoBleedingEdge\etc\mono\4.5\DefaultWsdlHelpGenerator.aspx
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: 3Dversity\demo\MonoBleedingEdge\etc\mono\4.5\machine.config
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\demo\MonoBleedingEdge\etc\mono\4.5\machine.config
-    projectPath: demo\MonoBleedingEdge\etc\mono\4.5\machine.config
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: 3Dversity\demo\MonoBleedingEdge\etc\mono\4.5\settings.map
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\demo\MonoBleedingEdge\etc\mono\4.5\settings.map
-    projectPath: demo\MonoBleedingEdge\etc\mono\4.5\settings.map
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: 3Dversity\demo\MonoBleedingEdge\etc\mono\4.5\web.config
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\demo\MonoBleedingEdge\etc\mono\4.5\web.config
-    projectPath: demo\MonoBleedingEdge\etc\mono\4.5\web.config
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: 3Dversity\demo\MonoBleedingEdge\etc\mono\browscap.ini
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\demo\MonoBleedingEdge\etc\mono\browscap.ini
-    projectPath: demo\MonoBleedingEdge\etc\mono\browscap.ini
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: 3Dversity\demo\MonoBleedingEdge\etc\mono\config
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\demo\MonoBleedingEdge\etc\mono\config
-    projectPath: demo\MonoBleedingEdge\etc\mono\config
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: 3Dversity\demo\MonoBleedingEdge\etc\mono\mconfig\config.xml
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\demo\MonoBleedingEdge\etc\mono\mconfig\config.xml
-    projectPath: demo\MonoBleedingEdge\etc\mono\mconfig\config.xml
-    originalPath: 
-    status: 3
-    staged: 0
   - path: 3Dversity\Library\assetDatabase3
     fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\assetDatabase3
     projectPath: Library\assetDatabase3
@@ -250,21 +28,9 @@ MonoBehaviour:
     originalPath: 
     status: 1
     staged: 0
-  - path: 3Dversity\Library\gfu\cache\branches.yaml
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\gfu\cache\branches.yaml
-    projectPath: Library\gfu\cache\branches.yaml
-    originalPath: 
-    status: 3
-    staged: 0
   - path: 3Dversity\Library\gfu\cache\gitlocks.yaml
     fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\gfu\cache\gitlocks.yaml
     projectPath: Library\gfu\cache\gitlocks.yaml
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: 3Dversity\Library\gfu\cache\gitlog.yaml
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\gfu\cache\gitlog.yaml
-    projectPath: Library\gfu\cache\gitlog.yaml
     originalPath: 
     status: 3
     staged: 0
@@ -283,108 +49,6 @@ MonoBehaviour:
   - path: 3Dversity\Library\gfu\cache\repoinfo.yaml
     fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\gfu\cache\repoinfo.yaml
     projectPath: Library\gfu\cache\repoinfo.yaml
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: 3Dversity\Library\LastBuild.buildreport
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\LastBuild.buildreport
-    projectPath: Library\LastBuild.buildreport
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: 3Dversity\Library\metadata\65\65ae2cbbdc64ef24293c2e3ad0027476
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\metadata\65\65ae2cbbdc64ef24293c2e3ad0027476
-    projectPath: Library\metadata\65\65ae2cbbdc64ef24293c2e3ad0027476
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: 3Dversity\Library\metadata\66\66bedbf86f15a8f438bb8bc359957a78
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\metadata\66\66bedbf86f15a8f438bb8bc359957a78
-    projectPath: Library\metadata\66\66bedbf86f15a8f438bb8bc359957a78
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: 3Dversity\Library\metadata\88\88f64e5835ac19549abcfae24cc32ce9
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\metadata\88\88f64e5835ac19549abcfae24cc32ce9
-    projectPath: Library\metadata\88\88f64e5835ac19549abcfae24cc32ce9
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: 3Dversity\Library\PlayerDataCache\Win64\Data\boot.config
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\PlayerDataCache\Win64\Data\boot.config
-    projectPath: Library\PlayerDataCache\Win64\Data\boot.config
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: 3Dversity\Library\PlayerDataCache\Win64\Data\globalgamemanagers
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\PlayerDataCache\Win64\Data\globalgamemanagers
-    projectPath: Library\PlayerDataCache\Win64\Data\globalgamemanagers
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: 3Dversity\Library\PlayerDataCache\Win64\Data\level0
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\PlayerDataCache\Win64\Data\level0
-    projectPath: Library\PlayerDataCache\Win64\Data\level0
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: 3Dversity\Library\PlayerDataCache\Win64\Data\level1
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\PlayerDataCache\Win64\Data\level1
-    projectPath: Library\PlayerDataCache\Win64\Data\level1
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: 3Dversity\Library\PlayerDataCache\Win64\Data\Managed\Assembly-CSharp.dll
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\PlayerDataCache\Win64\Data\Managed\Assembly-CSharp.dll
-    projectPath: Library\PlayerDataCache\Win64\Data\Managed\Assembly-CSharp.dll
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: 3Dversity\Library\PlayerDataCache\Win64\Data\Managed\com.unity.multiplayer-hlapi.Runtime.dll
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\PlayerDataCache\Win64\Data\Managed\com.unity.multiplayer-hlapi.Runtime.dll
-    projectPath: Library\PlayerDataCache\Win64\Data\Managed\com.unity.multiplayer-hlapi.Runtime.dll
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: 3Dversity\Library\PlayerDataCache\Win64\Data\Managed\Unity.Analytics.DataPrivacy.dll
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\PlayerDataCache\Win64\Data\Managed\Unity.Analytics.DataPrivacy.dll
-    projectPath: Library\PlayerDataCache\Win64\Data\Managed\Unity.Analytics.DataPrivacy.dll
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: 3Dversity\Library\PlayerDataCache\Win64\Data\Managed\Unity.TextMeshPro.dll
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\PlayerDataCache\Win64\Data\Managed\Unity.TextMeshPro.dll
-    projectPath: Library\PlayerDataCache\Win64\Data\Managed\Unity.TextMeshPro.dll
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: 3Dversity\Library\PlayerDataCache\Win64\Data\Managed\Unity.Timeline.dll
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\PlayerDataCache\Win64\Data\Managed\Unity.Timeline.dll
-    projectPath: Library\PlayerDataCache\Win64\Data\Managed\Unity.Timeline.dll
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: 3Dversity\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.SpatialTracking.dll
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.SpatialTracking.dll
-    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.SpatialTracking.dll
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: 3Dversity\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UI.dll
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UI.dll
-    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UI.dll
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: 3Dversity\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.XR.LegacyInputHelpers.dll
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.XR.LegacyInputHelpers.dll
-    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.XR.LegacyInputHelpers.dll
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: 3Dversity\Library\PlayerDataCache\Win64\Data\resources.assets
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\PlayerDataCache\Win64\Data\resources.assets
-    projectPath: Library\PlayerDataCache\Win64\Data\resources.assets
     originalPath: 
     status: 3
     staged: 0
@@ -410,7 +74,7 @@ MonoBehaviour:
     fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ScriptAssemblies\BuiltinAssemblies.stamp
     projectPath: Library\ScriptAssemblies\BuiltinAssemblies.stamp
     originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: 3Dversity\Library\ScriptAssemblies\com.unity.multiplayer-hlapi.Editor.dll
     fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ScriptAssemblies\com.unity.multiplayer-hlapi.Editor.dll
@@ -538,855 +202,15 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
-  - path: 3Dversity\Library\ShaderCache\0\00da43784c299a22fcd583f39f58a378.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\0\00da43784c299a22fcd583f39f58a378.bin
-    projectPath: Library\ShaderCache\0\00da43784c299a22fcd583f39f58a378.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\0\016b5e1c56f846c348bd732e3175b919.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\0\016b5e1c56f846c348bd732e3175b919.bin
-    projectPath: Library\ShaderCache\0\016b5e1c56f846c348bd732e3175b919.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\0\06d2b1bbf4fd6541432702bf69857426.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\0\06d2b1bbf4fd6541432702bf69857426.bin
-    projectPath: Library\ShaderCache\0\06d2b1bbf4fd6541432702bf69857426.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\0\08e02601003a499f3b61306d5354653a.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\0\08e02601003a499f3b61306d5354653a.bin
-    projectPath: Library\ShaderCache\0\08e02601003a499f3b61306d5354653a.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\0\0921a9066a705efc35c91f944f4a1e3b.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\0\0921a9066a705efc35c91f944f4a1e3b.bin
-    projectPath: Library\ShaderCache\0\0921a9066a705efc35c91f944f4a1e3b.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\0\0a02c786b29bceb76c5c8172af8c929e.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\0\0a02c786b29bceb76c5c8172af8c929e.bin
-    projectPath: Library\ShaderCache\0\0a02c786b29bceb76c5c8172af8c929e.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\0\0c305fc7882766358dafcc43d0f9a847.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\0\0c305fc7882766358dafcc43d0f9a847.bin
-    projectPath: Library\ShaderCache\0\0c305fc7882766358dafcc43d0f9a847.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\0\0d0e02804a34920983999d39a37f1d87.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\0\0d0e02804a34920983999d39a37f1d87.bin
-    projectPath: Library\ShaderCache\0\0d0e02804a34920983999d39a37f1d87.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\1\160b2b393db9844ad84e28048b93657d.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\1\160b2b393db9844ad84e28048b93657d.bin
-    projectPath: Library\ShaderCache\1\160b2b393db9844ad84e28048b93657d.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\1\18dfdca78d4d645fc689dab8c96c3ec1.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\1\18dfdca78d4d645fc689dab8c96c3ec1.bin
-    projectPath: Library\ShaderCache\1\18dfdca78d4d645fc689dab8c96c3ec1.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\1\19c6e9622427a788158bd46f5719c648.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\1\19c6e9622427a788158bd46f5719c648.bin
-    projectPath: Library\ShaderCache\1\19c6e9622427a788158bd46f5719c648.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\1\1cd3155800f025653306efd7543666e8.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\1\1cd3155800f025653306efd7543666e8.bin
-    projectPath: Library\ShaderCache\1\1cd3155800f025653306efd7543666e8.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\1\1d27daf9a15702479de74fea76c57acd.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\1\1d27daf9a15702479de74fea76c57acd.bin
-    projectPath: Library\ShaderCache\1\1d27daf9a15702479de74fea76c57acd.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\2\23cb922191eecd2f1fa4239037e4d77d.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\2\23cb922191eecd2f1fa4239037e4d77d.bin
-    projectPath: Library\ShaderCache\2\23cb922191eecd2f1fa4239037e4d77d.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\2\28620cebdababb4bf60f96377f6e1768.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\2\28620cebdababb4bf60f96377f6e1768.bin
-    projectPath: Library\ShaderCache\2\28620cebdababb4bf60f96377f6e1768.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\2\28d3b5bea00f29e707fa7e5bf19aa064.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\2\28d3b5bea00f29e707fa7e5bf19aa064.bin
-    projectPath: Library\ShaderCache\2\28d3b5bea00f29e707fa7e5bf19aa064.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\2\29dc1e37418dcf89b74a5667755d927c.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\2\29dc1e37418dcf89b74a5667755d927c.bin
-    projectPath: Library\ShaderCache\2\29dc1e37418dcf89b74a5667755d927c.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\2\2cd3d1a1fb3f82479847a7db3d40709b.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\2\2cd3d1a1fb3f82479847a7db3d40709b.bin
-    projectPath: Library\ShaderCache\2\2cd3d1a1fb3f82479847a7db3d40709b.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\2\2da1e59e8b5cf65744656eb6506dc4ea.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\2\2da1e59e8b5cf65744656eb6506dc4ea.bin
-    projectPath: Library\ShaderCache\2\2da1e59e8b5cf65744656eb6506dc4ea.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\2\2dc5cce4e98a641fdba122008b5758c9.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\2\2dc5cce4e98a641fdba122008b5758c9.bin
-    projectPath: Library\ShaderCache\2\2dc5cce4e98a641fdba122008b5758c9.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\3\3162436fd493c0f9a63574062050531a.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\3\3162436fd493c0f9a63574062050531a.bin
-    projectPath: Library\ShaderCache\3\3162436fd493c0f9a63574062050531a.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\3\35456a260ef3b208f1cd8f13ce31a537.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\3\35456a260ef3b208f1cd8f13ce31a537.bin
-    projectPath: Library\ShaderCache\3\35456a260ef3b208f1cd8f13ce31a537.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\3\387215a323c57ab43a219f1e1c35bc57.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\3\387215a323c57ab43a219f1e1c35bc57.bin
-    projectPath: Library\ShaderCache\3\387215a323c57ab43a219f1e1c35bc57.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\3\3b48d2b12b429192e99811d458f9f971.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\3\3b48d2b12b429192e99811d458f9f971.bin
-    projectPath: Library\ShaderCache\3\3b48d2b12b429192e99811d458f9f971.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\3\3edf08d1d9caeb03f77678bca7895846.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\3\3edf08d1d9caeb03f77678bca7895846.bin
-    projectPath: Library\ShaderCache\3\3edf08d1d9caeb03f77678bca7895846.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\4\44c7260bf0c06ed9b5c11d558b391fa5.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\4\44c7260bf0c06ed9b5c11d558b391fa5.bin
-    projectPath: Library\ShaderCache\4\44c7260bf0c06ed9b5c11d558b391fa5.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\4\45b04963b028125ddb233a38b23254b6.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\4\45b04963b028125ddb233a38b23254b6.bin
-    projectPath: Library\ShaderCache\4\45b04963b028125ddb233a38b23254b6.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\4\468b65be61fcd2fdd5fb77692fc6d744.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\4\468b65be61fcd2fdd5fb77692fc6d744.bin
-    projectPath: Library\ShaderCache\4\468b65be61fcd2fdd5fb77692fc6d744.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\4\46ab4bec5976f35a0e097d8e167d9071.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\4\46ab4bec5976f35a0e097d8e167d9071.bin
-    projectPath: Library\ShaderCache\4\46ab4bec5976f35a0e097d8e167d9071.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\4\474b79817a822b3c1cb7c789c22aa7c8.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\4\474b79817a822b3c1cb7c789c22aa7c8.bin
-    projectPath: Library\ShaderCache\4\474b79817a822b3c1cb7c789c22aa7c8.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\4\4a89200745977162d73c024e7cbad8cf.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\4\4a89200745977162d73c024e7cbad8cf.bin
-    projectPath: Library\ShaderCache\4\4a89200745977162d73c024e7cbad8cf.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\4\4b0f6fa482a57186012692fee790116e.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\4\4b0f6fa482a57186012692fee790116e.bin
-    projectPath: Library\ShaderCache\4\4b0f6fa482a57186012692fee790116e.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\4\4b9446ac2b5f50064019b8ac2a587764.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\4\4b9446ac2b5f50064019b8ac2a587764.bin
-    projectPath: Library\ShaderCache\4\4b9446ac2b5f50064019b8ac2a587764.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\4\4df4b9b87b3d4e061e45b7d515afc425.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\4\4df4b9b87b3d4e061e45b7d515afc425.bin
-    projectPath: Library\ShaderCache\4\4df4b9b87b3d4e061e45b7d515afc425.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\4\4e271e55db00875fbe9b0e5b10d37a3c.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\4\4e271e55db00875fbe9b0e5b10d37a3c.bin
-    projectPath: Library\ShaderCache\4\4e271e55db00875fbe9b0e5b10d37a3c.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\5\5074421a26f4002bbc67dbf40f9fdaa4.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\5\5074421a26f4002bbc67dbf40f9fdaa4.bin
-    projectPath: Library\ShaderCache\5\5074421a26f4002bbc67dbf40f9fdaa4.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\5\5140284eba9737e7b630258044cf1752.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\5\5140284eba9737e7b630258044cf1752.bin
-    projectPath: Library\ShaderCache\5\5140284eba9737e7b630258044cf1752.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\5\5140e6f54934953a7cca8e6bc8166681.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\5\5140e6f54934953a7cca8e6bc8166681.bin
-    projectPath: Library\ShaderCache\5\5140e6f54934953a7cca8e6bc8166681.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\5\515988278ec632007ffbcb9a8d566f92.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\5\515988278ec632007ffbcb9a8d566f92.bin
-    projectPath: Library\ShaderCache\5\515988278ec632007ffbcb9a8d566f92.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\5\519475330e17869442bacf91dfc713a4.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\5\519475330e17869442bacf91dfc713a4.bin
-    projectPath: Library\ShaderCache\5\519475330e17869442bacf91dfc713a4.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\5\54d82f8e421b03cbbb2c94118c96e6a5.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\5\54d82f8e421b03cbbb2c94118c96e6a5.bin
-    projectPath: Library\ShaderCache\5\54d82f8e421b03cbbb2c94118c96e6a5.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\5\55107e504797e726145aba003eb478ed.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\5\55107e504797e726145aba003eb478ed.bin
-    projectPath: Library\ShaderCache\5\55107e504797e726145aba003eb478ed.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\5\557f10802c52040be1ead0c80a932983.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\5\557f10802c52040be1ead0c80a932983.bin
-    projectPath: Library\ShaderCache\5\557f10802c52040be1ead0c80a932983.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\5\569f4d54e8dc5fa8fb1e9cc8ef77de8c.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\5\569f4d54e8dc5fa8fb1e9cc8ef77de8c.bin
-    projectPath: Library\ShaderCache\5\569f4d54e8dc5fa8fb1e9cc8ef77de8c.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\5\56e4232a433c021373a7b83218d430b4.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\5\56e4232a433c021373a7b83218d430b4.bin
-    projectPath: Library\ShaderCache\5\56e4232a433c021373a7b83218d430b4.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\5\588fcea40b261fa5cc55410b33138abb.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\5\588fcea40b261fa5cc55410b33138abb.bin
-    projectPath: Library\ShaderCache\5\588fcea40b261fa5cc55410b33138abb.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\5\59520d33c1f4466b73ba3548fb60e8ca.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\5\59520d33c1f4466b73ba3548fb60e8ca.bin
-    projectPath: Library\ShaderCache\5\59520d33c1f4466b73ba3548fb60e8ca.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\5\5d18d5422acd576816c9f945bbeaa0ed.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\5\5d18d5422acd576816c9f945bbeaa0ed.bin
-    projectPath: Library\ShaderCache\5\5d18d5422acd576816c9f945bbeaa0ed.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\6\627f5009c179373f8dc51ff5f71a0a6b.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\6\627f5009c179373f8dc51ff5f71a0a6b.bin
-    projectPath: Library\ShaderCache\6\627f5009c179373f8dc51ff5f71a0a6b.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\6\62f2bdd758784244bc0650e878d8f711.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\6\62f2bdd758784244bc0650e878d8f711.bin
-    projectPath: Library\ShaderCache\6\62f2bdd758784244bc0650e878d8f711.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\6\6637032802d96913dbf1bf0fe5f3240e.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\6\6637032802d96913dbf1bf0fe5f3240e.bin
-    projectPath: Library\ShaderCache\6\6637032802d96913dbf1bf0fe5f3240e.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\6\664776884bfb1a3498b3e75cd19e4746.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\6\664776884bfb1a3498b3e75cd19e4746.bin
-    projectPath: Library\ShaderCache\6\664776884bfb1a3498b3e75cd19e4746.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\6\6823c55b71ffd17ed8c95c664d29d872.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\6\6823c55b71ffd17ed8c95c664d29d872.bin
-    projectPath: Library\ShaderCache\6\6823c55b71ffd17ed8c95c664d29d872.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\6\691f244006dcbf07a76a351a65d8db2d.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\6\691f244006dcbf07a76a351a65d8db2d.bin
-    projectPath: Library\ShaderCache\6\691f244006dcbf07a76a351a65d8db2d.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\6\694993b7202f4cc6da29198ae476e4a8.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\6\694993b7202f4cc6da29198ae476e4a8.bin
-    projectPath: Library\ShaderCache\6\694993b7202f4cc6da29198ae476e4a8.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\6\696275c1f27a2f31e4102cbed36be04b.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\6\696275c1f27a2f31e4102cbed36be04b.bin
-    projectPath: Library\ShaderCache\6\696275c1f27a2f31e4102cbed36be04b.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\6\6de03f2c8588cc3d0e2ffacbd63486a0.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\6\6de03f2c8588cc3d0e2ffacbd63486a0.bin
-    projectPath: Library\ShaderCache\6\6de03f2c8588cc3d0e2ffacbd63486a0.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\7\7110c01e4ad234881df00de77b74ef4b.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\7\7110c01e4ad234881df00de77b74ef4b.bin
-    projectPath: Library\ShaderCache\7\7110c01e4ad234881df00de77b74ef4b.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\7\7263053c6978e2092b0e557f40089fb2.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\7\7263053c6978e2092b0e557f40089fb2.bin
-    projectPath: Library\ShaderCache\7\7263053c6978e2092b0e557f40089fb2.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\7\74e526a098a017cca9a16ff2c5f63c5e.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\7\74e526a098a017cca9a16ff2c5f63c5e.bin
-    projectPath: Library\ShaderCache\7\74e526a098a017cca9a16ff2c5f63c5e.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\7\7869f6f6ed8bcb3fbd94d26ec48e75a5.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\7\7869f6f6ed8bcb3fbd94d26ec48e75a5.bin
-    projectPath: Library\ShaderCache\7\7869f6f6ed8bcb3fbd94d26ec48e75a5.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\7\7b2ba2352e23689dc83f2399e4677c71.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\7\7b2ba2352e23689dc83f2399e4677c71.bin
-    projectPath: Library\ShaderCache\7\7b2ba2352e23689dc83f2399e4677c71.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\7\7f1f2470159fb30c84bc60dd9854ad9d.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\7\7f1f2470159fb30c84bc60dd9854ad9d.bin
-    projectPath: Library\ShaderCache\7\7f1f2470159fb30c84bc60dd9854ad9d.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\8\8013f4f3a49ad62e3c74d9fb2341913f.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\8\8013f4f3a49ad62e3c74d9fb2341913f.bin
-    projectPath: Library\ShaderCache\8\8013f4f3a49ad62e3c74d9fb2341913f.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\8\822078a4921ec0c871df677f9700cb11.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\8\822078a4921ec0c871df677f9700cb11.bin
-    projectPath: Library\ShaderCache\8\822078a4921ec0c871df677f9700cb11.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\8\82fb194c0f1be4adc15b3363d5128a46.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\8\82fb194c0f1be4adc15b3363d5128a46.bin
-    projectPath: Library\ShaderCache\8\82fb194c0f1be4adc15b3363d5128a46.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\8\83b72d7b6335a531222fa5a0e0ba65a4.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\8\83b72d7b6335a531222fa5a0e0ba65a4.bin
-    projectPath: Library\ShaderCache\8\83b72d7b6335a531222fa5a0e0ba65a4.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\8\8565c5cd776fecb7285fbdd12c2f4114.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\8\8565c5cd776fecb7285fbdd12c2f4114.bin
-    projectPath: Library\ShaderCache\8\8565c5cd776fecb7285fbdd12c2f4114.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\8\875b404fe0136bc7b443ba427a0d79ed.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\8\875b404fe0136bc7b443ba427a0d79ed.bin
-    projectPath: Library\ShaderCache\8\875b404fe0136bc7b443ba427a0d79ed.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\8\8b6f8566f6f02e1732135b39e7c2ee7e.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\8\8b6f8566f6f02e1732135b39e7c2ee7e.bin
-    projectPath: Library\ShaderCache\8\8b6f8566f6f02e1732135b39e7c2ee7e.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\8\8f0c72ce8891396cb340cc2e6c9fb9d1.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\8\8f0c72ce8891396cb340cc2e6c9fb9d1.bin
-    projectPath: Library\ShaderCache\8\8f0c72ce8891396cb340cc2e6c9fb9d1.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\9\90dc6fc1ba620b5282b1d97e57479e4f.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\9\90dc6fc1ba620b5282b1d97e57479e4f.bin
-    projectPath: Library\ShaderCache\9\90dc6fc1ba620b5282b1d97e57479e4f.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\9\98a1b34d88b3be1a4edc56cc808e3d6b.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\9\98a1b34d88b3be1a4edc56cc808e3d6b.bin
-    projectPath: Library\ShaderCache\9\98a1b34d88b3be1a4edc56cc808e3d6b.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\9\99be26a48a13742883fbb6dd69d05622.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\9\99be26a48a13742883fbb6dd69d05622.bin
-    projectPath: Library\ShaderCache\9\99be26a48a13742883fbb6dd69d05622.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\9\9a1797807aeb272b5f5134b2ca3bbded.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\9\9a1797807aeb272b5f5134b2ca3bbded.bin
-    projectPath: Library\ShaderCache\9\9a1797807aeb272b5f5134b2ca3bbded.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\9\9a37fcebaae05f0d04f0c973fa1568b5.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\9\9a37fcebaae05f0d04f0c973fa1568b5.bin
-    projectPath: Library\ShaderCache\9\9a37fcebaae05f0d04f0c973fa1568b5.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\9\9ad7e82810d00cbdbd5fdb6810379cee.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\9\9ad7e82810d00cbdbd5fdb6810379cee.bin
-    projectPath: Library\ShaderCache\9\9ad7e82810d00cbdbd5fdb6810379cee.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\9\9dcf3694f689679f67b6390e9243e03a.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\9\9dcf3694f689679f67b6390e9243e03a.bin
-    projectPath: Library\ShaderCache\9\9dcf3694f689679f67b6390e9243e03a.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\9\9e704df5ba5c68a31e97a4b92d740b02.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\9\9e704df5ba5c68a31e97a4b92d740b02.bin
-    projectPath: Library\ShaderCache\9\9e704df5ba5c68a31e97a4b92d740b02.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\a\a22add156874f6feb1573cb5310d51b4.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\a\a22add156874f6feb1573cb5310d51b4.bin
-    projectPath: Library\ShaderCache\a\a22add156874f6feb1573cb5310d51b4.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\a\a2fc11e1ad2f611170df1f453cfc1694.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\a\a2fc11e1ad2f611170df1f453cfc1694.bin
-    projectPath: Library\ShaderCache\a\a2fc11e1ad2f611170df1f453cfc1694.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\a\a4b935daf72911b8098f95fe8471dc77.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\a\a4b935daf72911b8098f95fe8471dc77.bin
-    projectPath: Library\ShaderCache\a\a4b935daf72911b8098f95fe8471dc77.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\a\a76feb17aff2d94b75e71ab5a30385ea.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\a\a76feb17aff2d94b75e71ab5a30385ea.bin
-    projectPath: Library\ShaderCache\a\a76feb17aff2d94b75e71ab5a30385ea.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\a\aa456bb80f455b0e9e3a1d18e57db5a7.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\a\aa456bb80f455b0e9e3a1d18e57db5a7.bin
-    projectPath: Library\ShaderCache\a\aa456bb80f455b0e9e3a1d18e57db5a7.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\a\acd0f756fdc99c4f4fc2d873b72db577.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\a\acd0f756fdc99c4f4fc2d873b72db577.bin
-    projectPath: Library\ShaderCache\a\acd0f756fdc99c4f4fc2d873b72db577.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\a\ae1c127754b4fa897af013bd2b9eade3.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\a\ae1c127754b4fa897af013bd2b9eade3.bin
-    projectPath: Library\ShaderCache\a\ae1c127754b4fa897af013bd2b9eade3.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\a\ae6e0316deea5f1f897d6e58d4e80286.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\a\ae6e0316deea5f1f897d6e58d4e80286.bin
-    projectPath: Library\ShaderCache\a\ae6e0316deea5f1f897d6e58d4e80286.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\a\af995fd407be16c3c5f0bbd04c7ad3f0.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\a\af995fd407be16c3c5f0bbd04c7ad3f0.bin
-    projectPath: Library\ShaderCache\a\af995fd407be16c3c5f0bbd04c7ad3f0.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\b\b0b3e7c740675eb6e5dc7c442fd2d181.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\b\b0b3e7c740675eb6e5dc7c442fd2d181.bin
-    projectPath: Library\ShaderCache\b\b0b3e7c740675eb6e5dc7c442fd2d181.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\b\b4801a7666a7be1f960f539bb1bf61e8.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\b\b4801a7666a7be1f960f539bb1bf61e8.bin
-    projectPath: Library\ShaderCache\b\b4801a7666a7be1f960f539bb1bf61e8.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\b\b632c0a78dd2d2ee29c1063ed84a855f.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\b\b632c0a78dd2d2ee29c1063ed84a855f.bin
-    projectPath: Library\ShaderCache\b\b632c0a78dd2d2ee29c1063ed84a855f.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\b\b66a68cde1d94b04bf9ee611764a7b77.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\b\b66a68cde1d94b04bf9ee611764a7b77.bin
-    projectPath: Library\ShaderCache\b\b66a68cde1d94b04bf9ee611764a7b77.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\b\b7f0365ba89cfca6515595ec52006510.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\b\b7f0365ba89cfca6515595ec52006510.bin
-    projectPath: Library\ShaderCache\b\b7f0365ba89cfca6515595ec52006510.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\b\b8f2557a948645343c5f1dbe5637cc40.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\b\b8f2557a948645343c5f1dbe5637cc40.bin
-    projectPath: Library\ShaderCache\b\b8f2557a948645343c5f1dbe5637cc40.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\b\bc882131090eecdb199e82028ea3b487.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\b\bc882131090eecdb199e82028ea3b487.bin
-    projectPath: Library\ShaderCache\b\bc882131090eecdb199e82028ea3b487.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\b\bcd154333f04d8aa155b0bb742d0a169.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\b\bcd154333f04d8aa155b0bb742d0a169.bin
-    projectPath: Library\ShaderCache\b\bcd154333f04d8aa155b0bb742d0a169.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\b\bd95f205be76c15a6ff3b7922fe3ddea.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\b\bd95f205be76c15a6ff3b7922fe3ddea.bin
-    projectPath: Library\ShaderCache\b\bd95f205be76c15a6ff3b7922fe3ddea.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\b\bd96251898c96e8959b0fedda1d4897c.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\b\bd96251898c96e8959b0fedda1d4897c.bin
-    projectPath: Library\ShaderCache\b\bd96251898c96e8959b0fedda1d4897c.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\b\bdc5cb83555743e4c11f84a73b5f41fd.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\b\bdc5cb83555743e4c11f84a73b5f41fd.bin
-    projectPath: Library\ShaderCache\b\bdc5cb83555743e4c11f84a73b5f41fd.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\c\c00c3f14ea26ba64ae43ca3e41b846da.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\c\c00c3f14ea26ba64ae43ca3e41b846da.bin
-    projectPath: Library\ShaderCache\c\c00c3f14ea26ba64ae43ca3e41b846da.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\c\c1ca69ded424112a37ac800fe19665b2.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\c\c1ca69ded424112a37ac800fe19665b2.bin
-    projectPath: Library\ShaderCache\c\c1ca69ded424112a37ac800fe19665b2.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\c\c3e6a269b4ce39b5ff41542a9a104d4c.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\c\c3e6a269b4ce39b5ff41542a9a104d4c.bin
-    projectPath: Library\ShaderCache\c\c3e6a269b4ce39b5ff41542a9a104d4c.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\c\c57d6f1fb7bce4c05da826ac0969c3b2.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\c\c57d6f1fb7bce4c05da826ac0969c3b2.bin
-    projectPath: Library\ShaderCache\c\c57d6f1fb7bce4c05da826ac0969c3b2.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\c\c8d4288b9d59d12b86dd6da847a932dc.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\c\c8d4288b9d59d12b86dd6da847a932dc.bin
-    projectPath: Library\ShaderCache\c\c8d4288b9d59d12b86dd6da847a932dc.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\c\cb2037ded4ead2c14b9d69464fa6bfb8.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\c\cb2037ded4ead2c14b9d69464fa6bfb8.bin
-    projectPath: Library\ShaderCache\c\cb2037ded4ead2c14b9d69464fa6bfb8.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\c\cb3272f47a42bb735a9d049e30cf374b.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\c\cb3272f47a42bb735a9d049e30cf374b.bin
-    projectPath: Library\ShaderCache\c\cb3272f47a42bb735a9d049e30cf374b.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\d\d00a5d7e8326b6185e52e6a8d966f5d0.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\d\d00a5d7e8326b6185e52e6a8d966f5d0.bin
-    projectPath: Library\ShaderCache\d\d00a5d7e8326b6185e52e6a8d966f5d0.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\d\d43eb31f4fb54a646b21f116b7cef92c.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\d\d43eb31f4fb54a646b21f116b7cef92c.bin
-    projectPath: Library\ShaderCache\d\d43eb31f4fb54a646b21f116b7cef92c.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\d\d53ecbe6e2af550daa9da850548044de.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\d\d53ecbe6e2af550daa9da850548044de.bin
-    projectPath: Library\ShaderCache\d\d53ecbe6e2af550daa9da850548044de.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\d\d6002060c868b5a7f03f69e2f6faf997.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\d\d6002060c868b5a7f03f69e2f6faf997.bin
-    projectPath: Library\ShaderCache\d\d6002060c868b5a7f03f69e2f6faf997.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\d\d8e859606b72d2ef1a2e032e8a4d80d2.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\d\d8e859606b72d2ef1a2e032e8a4d80d2.bin
-    projectPath: Library\ShaderCache\d\d8e859606b72d2ef1a2e032e8a4d80d2.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\d\d90a36561566ef57d16c815435dfff01.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\d\d90a36561566ef57d16c815435dfff01.bin
-    projectPath: Library\ShaderCache\d\d90a36561566ef57d16c815435dfff01.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\d\da18eceae08c85a2f3c0a64f8bb35ad4.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\d\da18eceae08c85a2f3c0a64f8bb35ad4.bin
-    projectPath: Library\ShaderCache\d\da18eceae08c85a2f3c0a64f8bb35ad4.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\d\dc2be09dfd81aa658b81b2a5f2e4db7f.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\d\dc2be09dfd81aa658b81b2a5f2e4db7f.bin
-    projectPath: Library\ShaderCache\d\dc2be09dfd81aa658b81b2a5f2e4db7f.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\d\ddf935802ebb582a1826dfc0e376569f.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\d\ddf935802ebb582a1826dfc0e376569f.bin
-    projectPath: Library\ShaderCache\d\ddf935802ebb582a1826dfc0e376569f.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\e\e1570235ca6686f6f12a2bb336152fcb.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\e\e1570235ca6686f6f12a2bb336152fcb.bin
-    projectPath: Library\ShaderCache\e\e1570235ca6686f6f12a2bb336152fcb.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\e\e1c451cc7c178829f78e479ca0c70e17.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\e\e1c451cc7c178829f78e479ca0c70e17.bin
-    projectPath: Library\ShaderCache\e\e1c451cc7c178829f78e479ca0c70e17.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\e\e4e43a301fcbf405ec1f767c24a62d72.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\e\e4e43a301fcbf405ec1f767c24a62d72.bin
-    projectPath: Library\ShaderCache\e\e4e43a301fcbf405ec1f767c24a62d72.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\e\e732218be41807da4cb6640fcfa4227a.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\e\e732218be41807da4cb6640fcfa4227a.bin
-    projectPath: Library\ShaderCache\e\e732218be41807da4cb6640fcfa4227a.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\e\e7587d185630dac6b5d8b25a01e4c454.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\e\e7587d185630dac6b5d8b25a01e4c454.bin
-    projectPath: Library\ShaderCache\e\e7587d185630dac6b5d8b25a01e4c454.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\e\e95c30f446f74f0e306cc393dbf5eb37.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\e\e95c30f446f74f0e306cc393dbf5eb37.bin
-    projectPath: Library\ShaderCache\e\e95c30f446f74f0e306cc393dbf5eb37.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\e\eb7d254a8259dea57183adff7a3f43af.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\e\eb7d254a8259dea57183adff7a3f43af.bin
-    projectPath: Library\ShaderCache\e\eb7d254a8259dea57183adff7a3f43af.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\e\ee4cbe7774177b04ee622a1ab48fc049.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\e\ee4cbe7774177b04ee622a1ab48fc049.bin
-    projectPath: Library\ShaderCache\e\ee4cbe7774177b04ee622a1ab48fc049.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\f\f0ea8fff8dad87d80b094ffa7edb5f71.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\f\f0ea8fff8dad87d80b094ffa7edb5f71.bin
-    projectPath: Library\ShaderCache\f\f0ea8fff8dad87d80b094ffa7edb5f71.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\f\f75ceaffe15f7adba0c87f598308fffa.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\f\f75ceaffe15f7adba0c87f598308fffa.bin
-    projectPath: Library\ShaderCache\f\f75ceaffe15f7adba0c87f598308fffa.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\f\fadf6c18c3e0df0d42d8fe8a2e7d6faf.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\f\fadf6c18c3e0df0d42d8fe8a2e7d6faf.bin
-    projectPath: Library\ShaderCache\f\fadf6c18c3e0df0d42d8fe8a2e7d6faf.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\ShaderCache\f\ff5b7f3308855eddbfdd1d4d5c4e6394.bin
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ShaderCache\f\ff5b7f3308855eddbfdd1d4d5c4e6394.bin
-    projectPath: Library\ShaderCache\f\ff5b7f3308855eddbfdd1d4d5c4e6394.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\shadercompiler-UnityShaderCompiler.exe1.log
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\shadercompiler-UnityShaderCompiler.exe1.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe1.log
+  - path: 3Dversity\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
     originalPath: 
     status: 3
-    staged: 0
-  - path: 3Dversity\Library\shadercompiler-UnityShaderCompiler.exe2.log
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\shadercompiler-UnityShaderCompiler.exe2.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe2.log
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: 3Dversity\Library\shadercompiler-UnityShaderCompiler.exe3.log
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\shadercompiler-UnityShaderCompiler.exe3.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe3.log
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: 3Dversity\Library\shadercompiler-UnityShaderCompiler.exe4.log
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\shadercompiler-UnityShaderCompiler.exe4.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe4.log
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: 3Dversity\Library\shadercompiler-UnityShaderCompiler.exe5.log
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\shadercompiler-UnityShaderCompiler.exe5.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe5.log
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: 3Dversity\Library\shadercompiler-UnityShaderCompiler.exe6.log
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\shadercompiler-UnityShaderCompiler.exe6.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe6.log
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: 3Dversity\Library\shadercompiler-UnityShaderCompiler.exe7.log
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\shadercompiler-UnityShaderCompiler.exe7.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe7.log
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: 3Dversity\Library\StateCache\Hierarchy\c7d346-b9c7aaf0d314cb847a.json
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\StateCache\Hierarchy\c7d346-b9c7aaf0d314cb847a.json
-    projectPath: Library\StateCache\Hierarchy\c7d346-b9c7aaf0d314cb847a.json
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\StateCache\Hierarchy\c7d346-mainStage.json
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\StateCache\Hierarchy\c7d346-mainStage.json
-    projectPath: Library\StateCache\Hierarchy\c7d346-mainStage.json
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: 3Dversity\Library\StateCache\SceneView\1a9aad-b9c7aaf0d314cb847a.json
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\StateCache\SceneView\1a9aad-b9c7aaf0d314cb847a.json
-    projectPath: Library\StateCache\SceneView\1a9aad-b9c7aaf0d314cb847a.json
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Library\StateCache\SceneView\1a9aad-mainStage.json
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\StateCache\SceneView\1a9aad-mainStage.json
-    projectPath: Library\StateCache\SceneView\1a9aad-mainStage.json
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: 3Dversity\Temp\__Backupscenes\0.backup
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Temp\__Backupscenes\0.backup
-    projectPath: Temp\__Backupscenes\0.backup
-    originalPath: 
-    status: 1
     staged: 0
   - path: 3Dversity\Temp\ProcessJobs\e9a6970f79cd12d8b075e7d72f1b07cb.bakert
     fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Temp\ProcessJobs\e9a6970f79cd12d8b075e7d72f1b07cb.bakert
     projectPath: Temp\ProcessJobs\e9a6970f79cd12d8b075e7d72f1b07cb.bakert
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Temp\tempFile.res
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Temp\tempFile.res
-    projectPath: Temp\tempFile.res
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Temp\tempFile.resG
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Temp\tempFile.resG
-    projectPath: Temp\tempFile.resG
     originalPath: 
     status: 1
     staged: 0
@@ -1396,459 +220,171 @@ MonoBehaviour:
     originalPath: 
     status: 1
     staged: 0
-  - path: 3Dversity\Temp\UnityTempFile-0057c82c95823f8489ee0a90482f3bd3
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Temp\UnityTempFile-0057c82c95823f8489ee0a90482f3bd3
-    projectPath: Temp\UnityTempFile-0057c82c95823f8489ee0a90482f3bd3
+  - path: 3Dversity\Temp\UnityTempFile-1de1b083393965346bb1ccfefb8ffc07
+    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Temp\UnityTempFile-1de1b083393965346bb1ccfefb8ffc07
+    projectPath: Temp\UnityTempFile-1de1b083393965346bb1ccfefb8ffc07
     originalPath: 
     status: 1
     staged: 0
-  - path: 3Dversity\Temp\UnityTempFile-00fb6207ff07f12449c0be65f51de8b3
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Temp\UnityTempFile-00fb6207ff07f12449c0be65f51de8b3
-    projectPath: Temp\UnityTempFile-00fb6207ff07f12449c0be65f51de8b3
+  - path: 3Dversity\Temp\UnityTempFile-1ebc72cdd1526c749b3fde7b4a43f26e
+    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Temp\UnityTempFile-1ebc72cdd1526c749b3fde7b4a43f26e
+    projectPath: Temp\UnityTempFile-1ebc72cdd1526c749b3fde7b4a43f26e
     originalPath: 
     status: 1
     staged: 0
-  - path: 3Dversity\Temp\UnityTempFile-0444834bccb47754a86b492701f93cd6
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Temp\UnityTempFile-0444834bccb47754a86b492701f93cd6
-    projectPath: Temp\UnityTempFile-0444834bccb47754a86b492701f93cd6
+  - path: 3Dversity\Temp\UnityTempFile-278d0fd1936e4af4cafaeaed8399d8bd
+    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Temp\UnityTempFile-278d0fd1936e4af4cafaeaed8399d8bd
+    projectPath: Temp\UnityTempFile-278d0fd1936e4af4cafaeaed8399d8bd
     originalPath: 
     status: 1
     staged: 0
-  - path: 3Dversity\Temp\UnityTempFile-04813538bc2b2f64bb8cd6073c6c620c
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Temp\UnityTempFile-04813538bc2b2f64bb8cd6073c6c620c
-    projectPath: Temp\UnityTempFile-04813538bc2b2f64bb8cd6073c6c620c
+  - path: 3Dversity\Temp\UnityTempFile-2a13bf10a70488b488d667ec3e781904
+    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Temp\UnityTempFile-2a13bf10a70488b488d667ec3e781904
+    projectPath: Temp\UnityTempFile-2a13bf10a70488b488d667ec3e781904
     originalPath: 
     status: 1
     staged: 0
-  - path: 3Dversity\Temp\UnityTempFile-09c5d58dfe70c9e44bcaba6b4ad18e6f
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Temp\UnityTempFile-09c5d58dfe70c9e44bcaba6b4ad18e6f
-    projectPath: Temp\UnityTempFile-09c5d58dfe70c9e44bcaba6b4ad18e6f
+  - path: 3Dversity\Temp\UnityTempFile-31a49afec7ca16b45b89839c5d844d63
+    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Temp\UnityTempFile-31a49afec7ca16b45b89839c5d844d63
+    projectPath: Temp\UnityTempFile-31a49afec7ca16b45b89839c5d844d63
     originalPath: 
     status: 1
     staged: 0
-  - path: 3Dversity\Temp\UnityTempFile-0a3076ee0a0183a4399800580b3d0d8d
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Temp\UnityTempFile-0a3076ee0a0183a4399800580b3d0d8d
-    projectPath: Temp\UnityTempFile-0a3076ee0a0183a4399800580b3d0d8d
+  - path: 3Dversity\Temp\UnityTempFile-322175ae9a4f28f438ea3d4d22d6ea3a
+    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Temp\UnityTempFile-322175ae9a4f28f438ea3d4d22d6ea3a
+    projectPath: Temp\UnityTempFile-322175ae9a4f28f438ea3d4d22d6ea3a
     originalPath: 
     status: 1
     staged: 0
-  - path: 3Dversity\Temp\UnityTempFile-0fde3b380147d8e4f9262e5ab05da28a
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Temp\UnityTempFile-0fde3b380147d8e4f9262e5ab05da28a
-    projectPath: Temp\UnityTempFile-0fde3b380147d8e4f9262e5ab05da28a
+  - path: 3Dversity\Temp\UnityTempFile-461293831d8758a48ad0428be95127e0
+    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Temp\UnityTempFile-461293831d8758a48ad0428be95127e0
+    projectPath: Temp\UnityTempFile-461293831d8758a48ad0428be95127e0
     originalPath: 
     status: 1
     staged: 0
-  - path: 3Dversity\Temp\UnityTempFile-11e000c92db1ca04aa9f8f158a96cb25
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Temp\UnityTempFile-11e000c92db1ca04aa9f8f158a96cb25
-    projectPath: Temp\UnityTempFile-11e000c92db1ca04aa9f8f158a96cb25
+  - path: 3Dversity\Temp\UnityTempFile-54ed51958f87afd4f80008d9529054bb
+    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Temp\UnityTempFile-54ed51958f87afd4f80008d9529054bb
+    projectPath: Temp\UnityTempFile-54ed51958f87afd4f80008d9529054bb
     originalPath: 
     status: 1
     staged: 0
-  - path: 3Dversity\Temp\UnityTempFile-14134368e37d7dc41934ce2c114d71ed
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Temp\UnityTempFile-14134368e37d7dc41934ce2c114d71ed
-    projectPath: Temp\UnityTempFile-14134368e37d7dc41934ce2c114d71ed
+  - path: 3Dversity\Temp\UnityTempFile-60f9f5276dd38a84eace6eba9d5c9029
+    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Temp\UnityTempFile-60f9f5276dd38a84eace6eba9d5c9029
+    projectPath: Temp\UnityTempFile-60f9f5276dd38a84eace6eba9d5c9029
     originalPath: 
     status: 1
     staged: 0
-  - path: 3Dversity\Temp\UnityTempFile-14ac5a8ab28cab74abd919119778eb6f
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Temp\UnityTempFile-14ac5a8ab28cab74abd919119778eb6f
-    projectPath: Temp\UnityTempFile-14ac5a8ab28cab74abd919119778eb6f
+  - path: 3Dversity\Temp\UnityTempFile-634dccadb725d7a49b00570598e271e2
+    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Temp\UnityTempFile-634dccadb725d7a49b00570598e271e2
+    projectPath: Temp\UnityTempFile-634dccadb725d7a49b00570598e271e2
     originalPath: 
     status: 1
     staged: 0
-  - path: 3Dversity\Temp\UnityTempFile-18835160c2bd38e4abbb4c02f4389adb
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Temp\UnityTempFile-18835160c2bd38e4abbb4c02f4389adb
-    projectPath: Temp\UnityTempFile-18835160c2bd38e4abbb4c02f4389adb
+  - path: 3Dversity\Temp\UnityTempFile-644b2708a1a51cc44961d883021093ad
+    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Temp\UnityTempFile-644b2708a1a51cc44961d883021093ad
+    projectPath: Temp\UnityTempFile-644b2708a1a51cc44961d883021093ad
     originalPath: 
     status: 1
     staged: 0
-  - path: 3Dversity\Temp\UnityTempFile-18b000141a81d8b4cbab8ff64448714d
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Temp\UnityTempFile-18b000141a81d8b4cbab8ff64448714d
-    projectPath: Temp\UnityTempFile-18b000141a81d8b4cbab8ff64448714d
+  - path: 3Dversity\Temp\UnityTempFile-864dad1a7b64da541a6d54c1f74b2396
+    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Temp\UnityTempFile-864dad1a7b64da541a6d54c1f74b2396
+    projectPath: Temp\UnityTempFile-864dad1a7b64da541a6d54c1f74b2396
     originalPath: 
     status: 1
     staged: 0
-  - path: 3Dversity\Temp\UnityTempFile-2234a99f61d6ff84f94151c40bee4901
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Temp\UnityTempFile-2234a99f61d6ff84f94151c40bee4901
-    projectPath: Temp\UnityTempFile-2234a99f61d6ff84f94151c40bee4901
+  - path: 3Dversity\Temp\UnityTempFile-905c5c459811c214aac64697e60dc251
+    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Temp\UnityTempFile-905c5c459811c214aac64697e60dc251
+    projectPath: Temp\UnityTempFile-905c5c459811c214aac64697e60dc251
     originalPath: 
     status: 1
     staged: 0
-  - path: 3Dversity\Temp\UnityTempFile-35f9c97d6a4350d44a4145287ee957a4
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Temp\UnityTempFile-35f9c97d6a4350d44a4145287ee957a4
-    projectPath: Temp\UnityTempFile-35f9c97d6a4350d44a4145287ee957a4
+  - path: 3Dversity\Temp\UnityTempFile-9146a0ad2d76d4f46b5c26c189d9293b
+    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Temp\UnityTempFile-9146a0ad2d76d4f46b5c26c189d9293b
+    projectPath: Temp\UnityTempFile-9146a0ad2d76d4f46b5c26c189d9293b
     originalPath: 
     status: 1
     staged: 0
-  - path: 3Dversity\Temp\UnityTempFile-39dd0b0c3827ce842a79d56d87c22311
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Temp\UnityTempFile-39dd0b0c3827ce842a79d56d87c22311
-    projectPath: Temp\UnityTempFile-39dd0b0c3827ce842a79d56d87c22311
+  - path: 3Dversity\Temp\UnityTempFile-9b00353ae7695834bb266cf8b4cd2bd4
+    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Temp\UnityTempFile-9b00353ae7695834bb266cf8b4cd2bd4
+    projectPath: Temp\UnityTempFile-9b00353ae7695834bb266cf8b4cd2bd4
     originalPath: 
     status: 1
     staged: 0
-  - path: 3Dversity\Temp\UnityTempFile-3d58445e182028241a0665339f438991
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Temp\UnityTempFile-3d58445e182028241a0665339f438991
-    projectPath: Temp\UnityTempFile-3d58445e182028241a0665339f438991
+  - path: 3Dversity\Temp\UnityTempFile-9bd03dfcde7f60d4b8e425e3c06f0fbc
+    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Temp\UnityTempFile-9bd03dfcde7f60d4b8e425e3c06f0fbc
+    projectPath: Temp\UnityTempFile-9bd03dfcde7f60d4b8e425e3c06f0fbc
     originalPath: 
     status: 1
     staged: 0
-  - path: 3Dversity\Temp\UnityTempFile-3f2866298b1e09e44ad3f1f214c2d971
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Temp\UnityTempFile-3f2866298b1e09e44ad3f1f214c2d971
-    projectPath: Temp\UnityTempFile-3f2866298b1e09e44ad3f1f214c2d971
+  - path: 3Dversity\Temp\UnityTempFile-b734fa81941c407449c7fbca9e847188
+    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Temp\UnityTempFile-b734fa81941c407449c7fbca9e847188
+    projectPath: Temp\UnityTempFile-b734fa81941c407449c7fbca9e847188
     originalPath: 
     status: 1
     staged: 0
-  - path: 3Dversity\Temp\UnityTempFile-44517ca1bb849e34e90fd13e85332fc5
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Temp\UnityTempFile-44517ca1bb849e34e90fd13e85332fc5
-    projectPath: Temp\UnityTempFile-44517ca1bb849e34e90fd13e85332fc5
+  - path: 3Dversity\Temp\UnityTempFile-d6a3a16372026f2458c8b6f4184066cd
+    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Temp\UnityTempFile-d6a3a16372026f2458c8b6f4184066cd
+    projectPath: Temp\UnityTempFile-d6a3a16372026f2458c8b6f4184066cd
     originalPath: 
     status: 1
     staged: 0
-  - path: 3Dversity\Temp\UnityTempFile-5340ad97eafa19247abeaff8046f09de
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Temp\UnityTempFile-5340ad97eafa19247abeaff8046f09de
-    projectPath: Temp\UnityTempFile-5340ad97eafa19247abeaff8046f09de
+  - path: 3Dversity\Temp\UnityTempFile-dc5ec190e640ec44c84f7f532c502067
+    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Temp\UnityTempFile-dc5ec190e640ec44c84f7f532c502067
+    projectPath: Temp\UnityTempFile-dc5ec190e640ec44c84f7f532c502067
     originalPath: 
     status: 1
     staged: 0
-  - path: 3Dversity\Temp\UnityTempFile-5751eecb38820fc41946dd4b876ab70c
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Temp\UnityTempFile-5751eecb38820fc41946dd4b876ab70c
-    projectPath: Temp\UnityTempFile-5751eecb38820fc41946dd4b876ab70c
+  - path: 3Dversity\Temp\UnityTempFile-de89c6e4952370f4dae5a81f9a903bc9
+    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Temp\UnityTempFile-de89c6e4952370f4dae5a81f9a903bc9
+    projectPath: Temp\UnityTempFile-de89c6e4952370f4dae5a81f9a903bc9
     originalPath: 
     status: 1
     staged: 0
-  - path: 3Dversity\Temp\UnityTempFile-6681f189a64e4494da8de566e403e5ca
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Temp\UnityTempFile-6681f189a64e4494da8de566e403e5ca
-    projectPath: Temp\UnityTempFile-6681f189a64e4494da8de566e403e5ca
+  - path: 3Dversity\Temp\UnityTempFile-e2300a8ccc9bda04ebe8e7bb89cda451
+    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Temp\UnityTempFile-e2300a8ccc9bda04ebe8e7bb89cda451
+    projectPath: Temp\UnityTempFile-e2300a8ccc9bda04ebe8e7bb89cda451
     originalPath: 
     status: 1
     staged: 0
-  - path: 3Dversity\Temp\UnityTempFile-6a61dbcf07a9dd24eae72c3e812b6e86
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Temp\UnityTempFile-6a61dbcf07a9dd24eae72c3e812b6e86
-    projectPath: Temp\UnityTempFile-6a61dbcf07a9dd24eae72c3e812b6e86
+  - path: 3Dversity\Temp\UnityTempFile-ea23cf1fe0e5b0d4f8ed7a197f93ca2f
+    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Temp\UnityTempFile-ea23cf1fe0e5b0d4f8ed7a197f93ca2f
+    projectPath: Temp\UnityTempFile-ea23cf1fe0e5b0d4f8ed7a197f93ca2f
     originalPath: 
     status: 1
     staged: 0
-  - path: 3Dversity\Temp\UnityTempFile-6c4cff17caa18724798af27e8895b275
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Temp\UnityTempFile-6c4cff17caa18724798af27e8895b275
-    projectPath: Temp\UnityTempFile-6c4cff17caa18724798af27e8895b275
+  - path: 3Dversity\Temp\UnityTempFile-ea5d0e2c115d465458743645c7d254be
+    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Temp\UnityTempFile-ea5d0e2c115d465458743645c7d254be
+    projectPath: Temp\UnityTempFile-ea5d0e2c115d465458743645c7d254be
     originalPath: 
     status: 1
     staged: 0
-  - path: 3Dversity\Temp\UnityTempFile-759dfb07e96c0f54b96fc9115b28ff4f
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Temp\UnityTempFile-759dfb07e96c0f54b96fc9115b28ff4f
-    projectPath: Temp\UnityTempFile-759dfb07e96c0f54b96fc9115b28ff4f
+  - path: 3Dversity\Temp\UnityTempFile-ee5fa4e035e424948a7b06650bad43ff
+    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Temp\UnityTempFile-ee5fa4e035e424948a7b06650bad43ff
+    projectPath: Temp\UnityTempFile-ee5fa4e035e424948a7b06650bad43ff
     originalPath: 
     status: 1
     staged: 0
-  - path: 3Dversity\Temp\UnityTempFile-782f406358a0d8d41b407fdc811d0249
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Temp\UnityTempFile-782f406358a0d8d41b407fdc811d0249
-    projectPath: Temp\UnityTempFile-782f406358a0d8d41b407fdc811d0249
+  - path: fotos\1.png
+    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\fotos\1.png
+    projectPath: ..\fotos\1.png
     originalPath: 
     status: 1
     staged: 0
-  - path: 3Dversity\Temp\UnityTempFile-7fb359f7e70c57b40a71c1a78678d1d8
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Temp\UnityTempFile-7fb359f7e70c57b40a71c1a78678d1d8
-    projectPath: Temp\UnityTempFile-7fb359f7e70c57b40a71c1a78678d1d8
+  - path: fotos\2.png
+    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\fotos\2.png
+    projectPath: ..\fotos\2.png
     originalPath: 
     status: 1
     staged: 0
-  - path: 3Dversity\Temp\UnityTempFile-89e7512b31671ab429140612bf8a26ae
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Temp\UnityTempFile-89e7512b31671ab429140612bf8a26ae
-    projectPath: Temp\UnityTempFile-89e7512b31671ab429140612bf8a26ae
+  - path: fotos\4.png
+    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\fotos\4.png
+    projectPath: ..\fotos\4.png
     originalPath: 
     status: 1
     staged: 0
-  - path: 3Dversity\Temp\UnityTempFile-8ac68933095f2e147a6e93412c480a3d
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Temp\UnityTempFile-8ac68933095f2e147a6e93412c480a3d
-    projectPath: Temp\UnityTempFile-8ac68933095f2e147a6e93412c480a3d
+  - path: fotos\5.png
+    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\fotos\5.png
+    projectPath: ..\fotos\5.png
     originalPath: 
     status: 1
-    staged: 0
-  - path: 3Dversity\Temp\UnityTempFile-8c093cb67677ced4abd1d7e79b3d6a14
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Temp\UnityTempFile-8c093cb67677ced4abd1d7e79b3d6a14
-    projectPath: Temp\UnityTempFile-8c093cb67677ced4abd1d7e79b3d6a14
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Temp\UnityTempFile-8f074e2ab685ba440b65b5bc11359efd
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Temp\UnityTempFile-8f074e2ab685ba440b65b5bc11359efd
-    projectPath: Temp\UnityTempFile-8f074e2ab685ba440b65b5bc11359efd
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Temp\UnityTempFile-8f951adaec105dd4db0072db30c742d6
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Temp\UnityTempFile-8f951adaec105dd4db0072db30c742d6
-    projectPath: Temp\UnityTempFile-8f951adaec105dd4db0072db30c742d6
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Temp\UnityTempFile-8f96d0ed0e773144fb3a1c1b38bfb12a
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Temp\UnityTempFile-8f96d0ed0e773144fb3a1c1b38bfb12a
-    projectPath: Temp\UnityTempFile-8f96d0ed0e773144fb3a1c1b38bfb12a
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Temp\UnityTempFile-8faf7db418aa56648af0ee9881674968
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Temp\UnityTempFile-8faf7db418aa56648af0ee9881674968
-    projectPath: Temp\UnityTempFile-8faf7db418aa56648af0ee9881674968
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Temp\UnityTempFile-8fdd66bc240d988439683ef3151967f6
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Temp\UnityTempFile-8fdd66bc240d988439683ef3151967f6
-    projectPath: Temp\UnityTempFile-8fdd66bc240d988439683ef3151967f6
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Temp\UnityTempFile-907967f55271539429f4457f83194c31
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Temp\UnityTempFile-907967f55271539429f4457f83194c31
-    projectPath: Temp\UnityTempFile-907967f55271539429f4457f83194c31
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Temp\UnityTempFile-90c80f9595df76344ade474754aa127a
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Temp\UnityTempFile-90c80f9595df76344ade474754aa127a
-    projectPath: Temp\UnityTempFile-90c80f9595df76344ade474754aa127a
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Temp\UnityTempFile-90cb738c400d95a429193dccb8d9fb8d
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Temp\UnityTempFile-90cb738c400d95a429193dccb8d9fb8d
-    projectPath: Temp\UnityTempFile-90cb738c400d95a429193dccb8d9fb8d
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Temp\UnityTempFile-930969919cecaf546a28d3ccdbdc41a2
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Temp\UnityTempFile-930969919cecaf546a28d3ccdbdc41a2
-    projectPath: Temp\UnityTempFile-930969919cecaf546a28d3ccdbdc41a2
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Temp\UnityTempFile-939584add7687ba4fb3093445a399f1e
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Temp\UnityTempFile-939584add7687ba4fb3093445a399f1e
-    projectPath: Temp\UnityTempFile-939584add7687ba4fb3093445a399f1e
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Temp\UnityTempFile-93d3699c0b479a44fa371a534310d661
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Temp\UnityTempFile-93d3699c0b479a44fa371a534310d661
-    projectPath: Temp\UnityTempFile-93d3699c0b479a44fa371a534310d661
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Temp\UnityTempFile-973cacaa4f30473419c44587b6d82b15
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Temp\UnityTempFile-973cacaa4f30473419c44587b6d82b15
-    projectPath: Temp\UnityTempFile-973cacaa4f30473419c44587b6d82b15
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Temp\UnityTempFile-97d37b8214ed44743b23a9fba5ea26cd
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Temp\UnityTempFile-97d37b8214ed44743b23a9fba5ea26cd
-    projectPath: Temp\UnityTempFile-97d37b8214ed44743b23a9fba5ea26cd
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Temp\UnityTempFile-982c9f4770c8e334687f69ed9be17c75
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Temp\UnityTempFile-982c9f4770c8e334687f69ed9be17c75
-    projectPath: Temp\UnityTempFile-982c9f4770c8e334687f69ed9be17c75
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Temp\UnityTempFile-9dbb97e189a99294ca519a3a6e57976c
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Temp\UnityTempFile-9dbb97e189a99294ca519a3a6e57976c
-    projectPath: Temp\UnityTempFile-9dbb97e189a99294ca519a3a6e57976c
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Temp\UnityTempFile-9dc55a0c8d0ce9040bd78ffa57f7d3e5
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Temp\UnityTempFile-9dc55a0c8d0ce9040bd78ffa57f7d3e5
-    projectPath: Temp\UnityTempFile-9dc55a0c8d0ce9040bd78ffa57f7d3e5
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Temp\UnityTempFile-9f921246b58c5784b8d4d1d2d8cef822
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Temp\UnityTempFile-9f921246b58c5784b8d4d1d2d8cef822
-    projectPath: Temp\UnityTempFile-9f921246b58c5784b8d4d1d2d8cef822
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Temp\UnityTempFile-a0eee7faa3cad2a4f93855e0171c3762
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Temp\UnityTempFile-a0eee7faa3cad2a4f93855e0171c3762
-    projectPath: Temp\UnityTempFile-a0eee7faa3cad2a4f93855e0171c3762
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Temp\UnityTempFile-a17998374b783cb4aae2f9b1adbf27ca
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Temp\UnityTempFile-a17998374b783cb4aae2f9b1adbf27ca
-    projectPath: Temp\UnityTempFile-a17998374b783cb4aae2f9b1adbf27ca
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Temp\UnityTempFile-ae1db257486483747a3a6b73768dfc09
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Temp\UnityTempFile-ae1db257486483747a3a6b73768dfc09
-    projectPath: Temp\UnityTempFile-ae1db257486483747a3a6b73768dfc09
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Temp\UnityTempFile-ae9642f8bfe11a04eb8a675f2f35903a
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Temp\UnityTempFile-ae9642f8bfe11a04eb8a675f2f35903a
-    projectPath: Temp\UnityTempFile-ae9642f8bfe11a04eb8a675f2f35903a
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Temp\UnityTempFile-aff1f3d70c009c444a59f2882a196be7
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Temp\UnityTempFile-aff1f3d70c009c444a59f2882a196be7
-    projectPath: Temp\UnityTempFile-aff1f3d70c009c444a59f2882a196be7
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Temp\UnityTempFile-b341b9c11f1d232459fccff00882e214
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Temp\UnityTempFile-b341b9c11f1d232459fccff00882e214
-    projectPath: Temp\UnityTempFile-b341b9c11f1d232459fccff00882e214
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Temp\UnityTempFile-c060fb8c118dda64fb327b3f53e06c85
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Temp\UnityTempFile-c060fb8c118dda64fb327b3f53e06c85
-    projectPath: Temp\UnityTempFile-c060fb8c118dda64fb327b3f53e06c85
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Temp\UnityTempFile-c28208ca72e8b57459eb2ff8ded4c57f
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Temp\UnityTempFile-c28208ca72e8b57459eb2ff8ded4c57f
-    projectPath: Temp\UnityTempFile-c28208ca72e8b57459eb2ff8ded4c57f
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Temp\UnityTempFile-c3eda3aac39e28443b2ef0cc2b48f179
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Temp\UnityTempFile-c3eda3aac39e28443b2ef0cc2b48f179
-    projectPath: Temp\UnityTempFile-c3eda3aac39e28443b2ef0cc2b48f179
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Temp\UnityTempFile-c83c07751550b71489c76ef234d55851
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Temp\UnityTempFile-c83c07751550b71489c76ef234d55851
-    projectPath: Temp\UnityTempFile-c83c07751550b71489c76ef234d55851
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Temp\UnityTempFile-cbee9df0d82c48d4e853a0142618af32
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Temp\UnityTempFile-cbee9df0d82c48d4e853a0142618af32
-    projectPath: Temp\UnityTempFile-cbee9df0d82c48d4e853a0142618af32
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Temp\UnityTempFile-cf4dc4104c8843b4bb1136e5230319ff
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Temp\UnityTempFile-cf4dc4104c8843b4bb1136e5230319ff
-    projectPath: Temp\UnityTempFile-cf4dc4104c8843b4bb1136e5230319ff
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Temp\UnityTempFile-cff4df44da914984e9130924381e9e42
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Temp\UnityTempFile-cff4df44da914984e9130924381e9e42
-    projectPath: Temp\UnityTempFile-cff4df44da914984e9130924381e9e42
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Temp\UnityTempFile-dbdb89a11bd36e34e812d2d58d25142f
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Temp\UnityTempFile-dbdb89a11bd36e34e812d2d58d25142f
-    projectPath: Temp\UnityTempFile-dbdb89a11bd36e34e812d2d58d25142f
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Temp\UnityTempFile-dc4f090c1a273754e80cedd62b4b21a2
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Temp\UnityTempFile-dc4f090c1a273754e80cedd62b4b21a2
-    projectPath: Temp\UnityTempFile-dc4f090c1a273754e80cedd62b4b21a2
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Temp\UnityTempFile-dead7ab5e2d147c4eac9a87100e6ada3
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Temp\UnityTempFile-dead7ab5e2d147c4eac9a87100e6ada3
-    projectPath: Temp\UnityTempFile-dead7ab5e2d147c4eac9a87100e6ada3
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Temp\UnityTempFile-e5f6581e853d3e3459b04c488cec8c2a
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Temp\UnityTempFile-e5f6581e853d3e3459b04c488cec8c2a
-    projectPath: Temp\UnityTempFile-e5f6581e853d3e3459b04c488cec8c2a
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Temp\UnityTempFile-e6d2392427206aa45941a7b0a99e8f50
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Temp\UnityTempFile-e6d2392427206aa45941a7b0a99e8f50
-    projectPath: Temp\UnityTempFile-e6d2392427206aa45941a7b0a99e8f50
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Temp\UnityTempFile-e74353efc6ee7614bbab5d0933bc1384
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Temp\UnityTempFile-e74353efc6ee7614bbab5d0933bc1384
-    projectPath: Temp\UnityTempFile-e74353efc6ee7614bbab5d0933bc1384
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Temp\UnityTempFile-e920f53b99f52e942a7548a08e0f179c
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Temp\UnityTempFile-e920f53b99f52e942a7548a08e0f179c
-    projectPath: Temp\UnityTempFile-e920f53b99f52e942a7548a08e0f179c
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Temp\UnityTempFile-f1f220285e71e784b88e3cb6b7ecf146
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Temp\UnityTempFile-f1f220285e71e784b88e3cb6b7ecf146
-    projectPath: Temp\UnityTempFile-f1f220285e71e784b88e3cb6b7ecf146
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Temp\UnityTempFile-f3fb99f4a9436c544a0eabc9528b9c53
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Temp\UnityTempFile-f3fb99f4a9436c544a0eabc9528b9c53
-    projectPath: Temp\UnityTempFile-f3fb99f4a9436c544a0eabc9528b9c53
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Temp\UnityTempFile-f72d95a1dcfcfc34e8770197b4aee5c2
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Temp\UnityTempFile-f72d95a1dcfcfc34e8770197b4aee5c2
-    projectPath: Temp\UnityTempFile-f72d95a1dcfcfc34e8770197b4aee5c2
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Temp\UnityTempFile-f89b332105f898a4b92ecb9f241b5ea0
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Temp\UnityTempFile-f89b332105f898a4b92ecb9f241b5ea0
-    projectPath: Temp\UnityTempFile-f89b332105f898a4b92ecb9f241b5ea0
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Temp\UnityTempFile-fa6dc90cae96c1947b0cb3c0f17919be
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Temp\UnityTempFile-fa6dc90cae96c1947b0cb3c0f17919be
-    projectPath: Temp\UnityTempFile-fa6dc90cae96c1947b0cb3c0f17919be
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Temp\UnityTempFile-fcd6315a73259c7448a8a9d930f517b9
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Temp\UnityTempFile-fcd6315a73259c7448a8a9d930f517b9
-    projectPath: Temp\UnityTempFile-fcd6315a73259c7448a8a9d930f517b9
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Temp\UnityTempFile-fdc78506fa467534b9c0dffac5e36a8c
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Temp\UnityTempFile-fdc78506fa467534b9c0dffac5e36a8c
-    projectPath: Temp\UnityTempFile-fdc78506fa467534b9c0dffac5e36a8c
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Temp\UnityTempFile-fee867e3649a95a4fb1221fed2359a0f
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Temp\UnityTempFile-fee867e3649a95a4fb1221fed2359a0f
-    projectPath: Temp\UnityTempFile-fee867e3649a95a4fb1221fed2359a0f
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: 3Dversity\Temp\UnityTempFile-ffacda13d7d8bc24ca41f896ca86785b
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Temp\UnityTempFile-ffacda13d7d8bc24ca41f896ca86785b
-    projectPath: Temp\UnityTempFile-ffacda13d7d8bc24ca41f896ca86785b
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: README.md
-    fullPath: C:\Users\vince\Documents\GitHub\3Dversity\README.md
-    projectPath: ..\README.md
-    originalPath: 
-    status: 3
     staged: 0
