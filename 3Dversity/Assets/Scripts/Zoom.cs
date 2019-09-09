@@ -31,7 +31,7 @@ public class Zoom : MonoBehaviour
     public void hacerZoom(){
         if(( zooming == 1) && (Camera.main.transform.position.z <= -5) && (Camera.main.transform.position.z >= -10)){
             float distancia = Vector3.Distance(palma1.transform.position, palma2.transform.position);
-            distancia = ((distancia-3)/10);
+            distancia = ((distancia-3)/50);
             Camera.main.transform.Translate(new Vector3(0.0f, 0.0f, distancia));
             print(distancia);
             if(Camera.main.transform.position.z < -10){

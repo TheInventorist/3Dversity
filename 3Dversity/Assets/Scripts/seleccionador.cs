@@ -40,12 +40,15 @@ public class seleccionador : MonoBehaviour
         //cristal1.transform.position.Set(0,0,0);
         cristal2.transform.position = fuera;
         cristal1.transform.position = enJuego;
+        menuSeleccionadorCategorias.SetActive(false);
+
     }
     public void cambiarCristal2(){
         //cristal1.transform.position.Set(30,30,30);
         //cristal2.transform.position.Set(0,0,0);
         cristal2.transform.position = enJuego;
         cristal1.transform.position = fuera;
+        menuSeleccionadorCategorias.SetActive(false);
     }
 
     private void mostrarMenuCategorias(){

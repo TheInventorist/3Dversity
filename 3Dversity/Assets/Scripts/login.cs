@@ -19,26 +19,28 @@ public class login : MonoBehaviour{
 
     private void validarLogin(){
         if((Email == "User1@gmail.com") && (Passwd ==  "admin")){
-            StartCoroutine(CargaAsincronica(1));
-
+            //StartCoroutine(CargaAsincronica(1));
+            SceneManager.LoadScene(1);
         }
         else{
             print("usuario o contraseña incorrecta");
         }
     }
 
-    IEnumerator CargaAsincronica(int indice){
+   /*  IEnumerator CargaAsincronica(int indice){
         AsyncOperation operacion = SceneManager.LoadSceneAsync(indice);
         pantallaDeCarga.SetActive(true);
 
+        
         while(!operacion.isDone){
             float progreso = Mathf.Clamp01(operacion.progress / .9f);
             slider.value = progreso;
 
             yield return null;
         }
+        
     }
-
+*/
     void Update(){
         Email = email.GetComponent<InputField>().text;
         Passwd = passwd.GetComponent<InputField>().text;
