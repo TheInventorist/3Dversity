@@ -12,14 +12,27 @@ la demo del proyecto en su ultima version, se encuentra en el repositorio en la 
 ## Clonacion e instalacion del ambiente de trabajo para compilar en una maquina propia.
 
 1) Clonar el proyecto en una carpeta en nuestro PC
-    ![asd](https://github.com/TheInventorist/3Dversity/blob/master/fotos/1.png)
+
+    ![1](https://github.com/TheInventorist/3Dversity/blob/master/fotos/1.png)
+
 
 2) abrir el proyecto con Unity3D HUB (https://unity3d.com/es/get-unity/download)
 
 3) al abrir el proyecto, ingresar a File -> Build settings
+
+    ![2](https://github.com/TheInventorist/3Dversity/blob/master/fotos/2.png)
+    
+    
+    ![3](https://github.com/TheInventorist/3Dversity/blob/master/fotos/3.png)
+
     - seleccionar la plataforma "PC, Mac & linux Standalone"
     - Build And Run
 
+    ![4](https://github.com/TheInventorist/3Dversity/blob/master/fotos/4.png)
+
 4) al terminar de compilar, la demo funcionara como un exe portable que se encontrar en la carpeta seleccionada
+
+    ![5](https://github.com/TheInventorist/3Dversity/blob/master/fotos/5.png)
+    
     - hacer doble click sobre la demo
     - disfrutar de la aplicacion
