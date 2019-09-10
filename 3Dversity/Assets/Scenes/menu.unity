@@ -391,7 +391,6 @@ MonoBehaviour:
   email: {fileID: 1947207616}
   passwd: {fileID: 1544499556}
   btnLogin: {fileID: 1389403165}
-  logear: {fileID: 1389403165}
   pantallaDeCarga: {fileID: 29539493}
   slider: {fileID: 1243865786}
 --- !u!4 &480536044
