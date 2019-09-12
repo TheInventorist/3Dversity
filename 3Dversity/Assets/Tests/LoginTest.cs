@@ -14,13 +14,13 @@ namespace Tests
         //[TestCase("User2@gmail.com","admin")]
         //[TestCase("User3@gmail.com","Admin")]
         [Test]
-        public void LoginTestSimplePasses(string mail, string contra){
+        public void LoginTestSimplePasses(){
             // Use the Assert class to test conditions
             var login = new Login();
             
-            int puntaje = login.validarLogin(mail, contra);
+            int puntaje = login.validarLogin("User1@gmail.com", "admin");
 
-            Assert.That(1, Is.EqualTo(puntaje));
+            Assert.AreEquals(1, puntaje);
         }
 
         // A UnityTest behaves like a coroutine in Play Mode. In Edit Mode you can use

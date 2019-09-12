@@ -13,9 +13,417 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2019-09-10T03:00:06.403-03:00
-  initializedAtString: 2019-09-10T01:54:34.185-03:00
+  lastUpdatedAtString: 2019-09-12T09:41:47.441-03:00
+  initializedAtString: 2019-09-12T09:41:47.163-03:00
   log:
+  - commitID: 0a1dccc96675dd754cdec207432af786dc4ab6dc
+    mergeA: 
+    mergeB: 
+    authorName: TheInventorist
+    authorEmail: vdepassier@gmail.com
+    commitEmail: vdepassier@gmail.com
+    commitName: TheInventorist
+    summary: testing
+    description: 
+    timeString: 2019-09-10T06:38:39.000-04:00
+    commitTimeString: 2019-09-10T06:38:39.000-04:00
+    changes:
+    - path: 3Dversity\Assets\InitTestScene637036781969429799.unity
+      fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Assets\InitTestScene637036781969429799.unity
+      projectPath: Assets\InitTestScene637036781969429799.unity
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 3Dversity\Assets\InitTestScene637036781969429799.unity.meta
+      fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Assets\InitTestScene637036781969429799.unity.meta
+      projectPath: Assets\InitTestScene637036781969429799.unity.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 3Dversity\Assets\Scenes\menu.unity
+      fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Assets\Scenes\menu.unity
+      projectPath: Assets\Scenes\menu.unity
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 3Dversity\Assets\Scripts\login.cs
+      fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Assets\Scripts\login.cs
+      projectPath: Assets\Scripts\login.cs
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 3Dversity\Assets\Tests.meta
+      fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Assets\Tests.meta
+      projectPath: Assets\Tests.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 3Dversity\Assets\Tests\LoginTest.cs
+      fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Assets\Tests\LoginTest.cs
+      projectPath: Assets\Tests\LoginTest.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 3Dversity\Assets\Tests\LoginTest.cs.meta
+      fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Assets\Tests\LoginTest.cs.meta
+      projectPath: Assets\Tests\LoginTest.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 3Dversity\Assets\Tests\SeleccionadorTest.cs
+      fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Assets\Tests\SeleccionadorTest.cs
+      projectPath: Assets\Tests\SeleccionadorTest.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 3Dversity\Assets\Tests\SeleccionadorTest.cs.meta
+      fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Assets\Tests\SeleccionadorTest.cs.meta
+      projectPath: Assets\Tests\SeleccionadorTest.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 3Dversity\Assets\Tests\Tests.asmdef
+      fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Assets\Tests\Tests.asmdef
+      projectPath: Assets\Tests\Tests.asmdef
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 3Dversity\Assets\Tests\Tests.asmdef.meta
+      fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Assets\Tests\Tests.asmdef.meta
+      projectPath: Assets\Tests\Tests.asmdef.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 3Dversity\Assets\Tests\ZoomTest.cs
+      fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Assets\Tests\ZoomTest.cs
+      projectPath: Assets\Tests\ZoomTest.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 3Dversity\Assets\Tests\ZoomTest.cs.meta
+      fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Assets\Tests\ZoomTest.cs.meta
+      projectPath: Assets\Tests\ZoomTest.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 3Dversity\Library\CurrentLayout-default.dwlt
+      fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\CurrentLayout-default.dwlt
+      projectPath: Library\CurrentLayout-default.dwlt
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 3Dversity\Library\LastBuild.buildreport
+      fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\LastBuild.buildreport
+      projectPath: Library\LastBuild.buildreport
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 3Dversity\Library\LastSceneManagerSetup.txt
+      fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\LastSceneManagerSetup.txt
+      projectPath: Library\LastSceneManagerSetup.txt
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 3Dversity\Library\ProjectSettings.asset
+      fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ProjectSettings.asset
+      projectPath: Library\ProjectSettings.asset
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 3Dversity\Library\SceneVisibilityState.asset
+      fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\SceneVisibilityState.asset
+      projectPath: Library\SceneVisibilityState.asset
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 3Dversity\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+      fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 3Dversity\Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
+      fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 3Dversity\Library\ScriptAssemblies\Assembly-CSharp.dll
+      fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ScriptAssemblies\Assembly-CSharp.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 3Dversity\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+      fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 3Dversity\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
+      fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 3Dversity\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+      fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+      projectPath: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 3Dversity\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+      fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 3Dversity\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+      fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 3Dversity\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+      fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 3Dversity\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+      fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+      projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 3Dversity\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+      fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 3Dversity\Library\ScriptAssemblies\Unity.Timeline.dll
+      fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ScriptAssemblies\Unity.Timeline.dll
+      projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 3Dversity\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+      fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 3Dversity\Library\ScriptAssemblies\UnityEditor.SpatialTracking.dll
+      fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ScriptAssemblies\UnityEditor.SpatialTracking.dll
+      projectPath: Library\ScriptAssemblies\UnityEditor.SpatialTracking.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 3Dversity\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+      fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+      projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 3Dversity\Library\ScriptAssemblies\UnityEditor.UI.dll
+      fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ScriptAssemblies\UnityEditor.UI.dll
+      projectPath: Library\ScriptAssemblies\UnityEditor.UI.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 3Dversity\Library\ScriptAssemblies\UnityEditor.XR.LegacyInputHelpers.dll
+      fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ScriptAssemblies\UnityEditor.XR.LegacyInputHelpers.dll
+      projectPath: Library\ScriptAssemblies\UnityEditor.XR.LegacyInputHelpers.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 3Dversity\Library\ScriptAssemblies\UnityEngine.SpatialTracking.dll
+      fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ScriptAssemblies\UnityEngine.SpatialTracking.dll
+      projectPath: Library\ScriptAssemblies\UnityEngine.SpatialTracking.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 3Dversity\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+      fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+      projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 3Dversity\Library\ScriptAssemblies\UnityEngine.UI.dll
+      fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ScriptAssemblies\UnityEngine.UI.dll
+      projectPath: Library\ScriptAssemblies\UnityEngine.UI.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 3Dversity\Library\ScriptAssemblies\UnityEngine.XR.LegacyInputHelpers.dll
+      fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ScriptAssemblies\UnityEngine.XR.LegacyInputHelpers.dll
+      projectPath: Library\ScriptAssemblies\UnityEngine.XR.LegacyInputHelpers.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 3Dversity\Library\ScriptAssemblies\com.unity.multiplayer-hlapi.Editor.dll
+      fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ScriptAssemblies\com.unity.multiplayer-hlapi.Editor.dll
+      projectPath: Library\ScriptAssemblies\com.unity.multiplayer-hlapi.Editor.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 3Dversity\Library\ScriptAssemblies\com.unity.multiplayer-hlapi.Runtime.dll
+      fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ScriptAssemblies\com.unity.multiplayer-hlapi.Runtime.dll
+      projectPath: Library\ScriptAssemblies\com.unity.multiplayer-hlapi.Runtime.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 3Dversity\Library\ScriptAssemblies\com.unity.multiplayer-weaver.Editor.dll
+      fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\ScriptAssemblies\com.unity.multiplayer-weaver.Editor.dll
+      projectPath: Library\ScriptAssemblies\com.unity.multiplayer-weaver.Editor.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 3Dversity\Library\StateCache\SceneView\1a9aad-mainStage.json
+      fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\StateCache\SceneView\1a9aad-mainStage.json
+      projectPath: Library\StateCache\SceneView\1a9aad-mainStage.json
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 3Dversity\Library\assetDatabase3
+      fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\assetDatabase3
+      projectPath: Library\assetDatabase3
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 3Dversity\Library\expandedItems
+      fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\expandedItems
+      projectPath: Library\expandedItems
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 3Dversity\Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 3Dversity\Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 3Dversity\Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 3Dversity\Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 3Dversity\Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 3Dversity\Library\gfu\cache\repoinfo.yaml
+      fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 3Dversity\Library\metadata\32\32cae4115a4174a40bf95dd7a0571325
+      fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\metadata\32\32cae4115a4174a40bf95dd7a0571325
+      projectPath: Library\metadata\32\32cae4115a4174a40bf95dd7a0571325
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 3Dversity\Library\metadata\32\32cae4115a4174a40bf95dd7a0571325.info
+      fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\metadata\32\32cae4115a4174a40bf95dd7a0571325.info
+      projectPath: Library\metadata\32\32cae4115a4174a40bf95dd7a0571325.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 3Dversity\Library\metadata\66\66bedbf86f15a8f438bb8bc359957a78
+      fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\metadata\66\66bedbf86f15a8f438bb8bc359957a78
+      projectPath: Library\metadata\66\66bedbf86f15a8f438bb8bc359957a78
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 3Dversity\Library\metadata\66\66bedbf86f15a8f438bb8bc359957a78.info
+      fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\metadata\66\66bedbf86f15a8f438bb8bc359957a78.info
+      projectPath: Library\metadata\66\66bedbf86f15a8f438bb8bc359957a78.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 3Dversity\Library\metadata\a6\a64c6ff7d5e25f94d9abe8fda770c681
+      fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\metadata\a6\a64c6ff7d5e25f94d9abe8fda770c681
+      projectPath: Library\metadata\a6\a64c6ff7d5e25f94d9abe8fda770c681
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 3Dversity\Library\metadata\a6\a64c6ff7d5e25f94d9abe8fda770c681.info
+      fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\metadata\a6\a64c6ff7d5e25f94d9abe8fda770c681.info
+      projectPath: Library\metadata\a6\a64c6ff7d5e25f94d9abe8fda770c681.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 3Dversity\Library\metadata\aa\aab66f22aadc48147a6dde2be7a260d6
+      fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\metadata\aa\aab66f22aadc48147a6dde2be7a260d6
+      projectPath: Library\metadata\aa\aab66f22aadc48147a6dde2be7a260d6
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 3Dversity\Library\metadata\aa\aab66f22aadc48147a6dde2be7a260d6.info
+      fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\metadata\aa\aab66f22aadc48147a6dde2be7a260d6.info
+      projectPath: Library\metadata\aa\aab66f22aadc48147a6dde2be7a260d6.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 3Dversity\Library\metadata\bc\bc763b23635e22942838dc59a4147b1d
+      fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\metadata\bc\bc763b23635e22942838dc59a4147b1d
+      projectPath: Library\metadata\bc\bc763b23635e22942838dc59a4147b1d
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 3Dversity\Library\metadata\bc\bc763b23635e22942838dc59a4147b1d.info
+      fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\metadata\bc\bc763b23635e22942838dc59a4147b1d.info
+      projectPath: Library\metadata\bc\bc763b23635e22942838dc59a4147b1d.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 3Dversity\Library\metadata\c2\c2adff38160c79347a619c7d59d3e0cc
+      fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\metadata\c2\c2adff38160c79347a619c7d59d3e0cc
+      projectPath: Library\metadata\c2\c2adff38160c79347a619c7d59d3e0cc
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 3Dversity\Library\metadata\c2\c2adff38160c79347a619c7d59d3e0cc.info
+      fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\metadata\c2\c2adff38160c79347a619c7d59d3e0cc.info
+      projectPath: Library\metadata\c2\c2adff38160c79347a619c7d59d3e0cc.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 3Dversity\Library\metadata\e2\e214241781470cf4c9394696257b347a
+      fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\metadata\e2\e214241781470cf4c9394696257b347a
+      projectPath: Library\metadata\e2\e214241781470cf4c9394696257b347a
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 3Dversity\Library\metadata\e2\e214241781470cf4c9394696257b347a.info
+      fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\metadata\e2\e214241781470cf4c9394696257b347a.info
+      projectPath: Library\metadata\e2\e214241781470cf4c9394696257b347a.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 3Dversity\ProjectSettings\ProjectSettings.asset
+      fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\ProjectSettings\ProjectSettings.asset
+      projectPath: ProjectSettings\ProjectSettings.asset
+      originalPath: 
+      status: 3
+      staged: 0
   - commitID: 50d68dc64405296f1d12ed4011066a53a4e9c960
     mergeA: 
     mergeB: 
