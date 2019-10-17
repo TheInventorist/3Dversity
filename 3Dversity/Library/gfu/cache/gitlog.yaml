@@ -13,9 +13,125 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2019-10-14T21:13:56.691-03:00
-  initializedAtString: 2019-10-14T21:13:56.691-03:00
+  lastUpdatedAtString: 2019-10-17T06:30:52.066-03:00
+  initializedAtString: 2019-10-17T03:07:21.448-03:00
   log:
+  - commitID: a47f2bff07b36bd9cdb1528426d7bfd96f0f47a0
+    mergeA: 
+    mergeB: 
+    authorName: TheInventorist
+    authorEmail: vdepassier@gmail.com
+    commitEmail: vdepassier@gmail.com
+    commitName: TheInventorist
+    summary: interfaz
+    description: 
+    timeString: 2019-10-14T20:16:56.000-04:00
+    commitTimeString: 2019-10-14T20:16:56.000-04:00
+    changes:
+    - path: 3Dversity\Assets\Modelos\Categoria Hexagonal.meta
+      fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Assets\Modelos\Categoria
+        Hexagonal.meta
+      projectPath: Assets\Modelos\Categoria Hexagonal.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 3Dversity\Assets\Modelos\Categoria Hexagonal\Prisma Hexagonal.meta
+      fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Assets\Modelos\Categoria
+        Hexagonal\Prisma Hexagonal.meta
+      projectPath: Assets\Modelos\Categoria Hexagonal\Prisma Hexagonal.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 3Dversity\Assets\Scenes\Game.unity
+      fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Assets\Scenes\Game.unity
+      projectPath: Assets\Scenes\Game.unity
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 3Dversity\Library\CurrentLayout-default.dwlt
+      fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\CurrentLayout-default.dwlt
+      projectPath: Library\CurrentLayout-default.dwlt
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 3Dversity\Library\LastSceneManagerSetup.txt
+      fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\LastSceneManagerSetup.txt
+      projectPath: Library\LastSceneManagerSetup.txt
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 3Dversity\Library\StateCache\SceneView\1a9aad-mainStage.json
+      fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\StateCache\SceneView\1a9aad-mainStage.json
+      projectPath: Library\StateCache\SceneView\1a9aad-mainStage.json
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 3Dversity\Library\assetDatabase3
+      fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\assetDatabase3
+      projectPath: Library\assetDatabase3
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 3Dversity\Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 3Dversity\Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 3Dversity\Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 3Dversity\Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 3Dversity\Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 3Dversity\Library\gfu\cache\repoinfo.yaml
+      fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: 3Dversity\Library\metadata\45\4512decae43167c40b479ccc335ee2f1
+      fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\metadata\45\4512decae43167c40b479ccc335ee2f1
+      projectPath: Library\metadata\45\4512decae43167c40b479ccc335ee2f1
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 3Dversity\Library\metadata\45\4512decae43167c40b479ccc335ee2f1.info
+      fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\metadata\45\4512decae43167c40b479ccc335ee2f1.info
+      projectPath: Library\metadata\45\4512decae43167c40b479ccc335ee2f1.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 3Dversity\Library\metadata\d7\d7dd1f798b2028f4597f59fede0a39d1
+      fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\metadata\d7\d7dd1f798b2028f4597f59fede0a39d1
+      projectPath: Library\metadata\d7\d7dd1f798b2028f4597f59fede0a39d1
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: 3Dversity\Library\metadata\d7\d7dd1f798b2028f4597f59fede0a39d1.info
+      fullPath: C:\Users\vince\Documents\GitHub\3Dversity\3Dversity\Library\metadata\d7\d7dd1f798b2028f4597f59fede0a39d1.info
+      projectPath: Library\metadata\d7\d7dd1f798b2028f4597f59fede0a39d1.info
+      originalPath: 
+      status: 4
+      staged: 0
   - commitID: dbf42b99b0d7455b57907c3f20ec3840dff40c9f
     mergeA: 
     mergeB: 

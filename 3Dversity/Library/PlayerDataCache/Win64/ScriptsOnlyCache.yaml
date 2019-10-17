@@ -9,8 +9,9 @@ ScriptsOnlyBuild:
     - Leap.Unity.ProximityDetector
     - Leap.Unity.RigidFinger
     - Leap.Unity.RigidHand
+    - Login
+    - Simetrias
     - Zoom
-    - login
     - seleccionador
     GitHub.Unity.45.dll:
     - GitHub.Unity.ApplicationCache
@@ -36,6 +37,7 @@ ScriptsOnlyBuild:
     UnityEditor.TestRunner.dll:
     - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
     - UnityEditor.TestTools.TestRunner.TestListCacheData
+    - UnityEditor.TestTools.TestRunner.TestRunnerWindow
     UnityEngine.UI.dll:
     - UnityEngine.EventSystems.EventSystem
     - UnityEngine.EventSystems.StandaloneInputModule
@@ -93,31 +95,35 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 10070}
     - Class: 114
-      Script: {instanceID: 10420}
+      Script: {instanceID: 10422}
     - Class: 114
-      Script: {instanceID: 10566}
+      Script: {instanceID: 10568}
     - Class: 114
-      Script: {instanceID: 10708}
+      Script: {instanceID: 10710}
     - Class: 114
-      Script: {instanceID: 11144}
+      Script: {instanceID: 11146}
     - Class: 114
-      Script: {instanceID: 11374}
+      Script: {instanceID: 11382}
     - Class: 114
-      Script: {instanceID: 11380}
+      Script: {instanceID: 11388}
     - Class: 114
-      Script: {instanceID: 11434}
+      Script: {instanceID: 11442}
     - Class: 114
-      Script: {instanceID: 11586}
+      Script: {instanceID: 11594}
     - Class: 114
-      Script: {instanceID: 11904}
+      Script: {instanceID: 11912}
     - Class: 114
-      Script: {instanceID: 12042}
+      Script: {instanceID: 11974}
     - Class: 114
-      Script: {instanceID: 12168}
+      Script: {instanceID: 12052}
     - Class: 114
-      Script: {instanceID: 12396}
+      Script: {instanceID: 12178}
     - Class: 114
-      Script: {instanceID: 12752}
+      Script: {instanceID: 12406}
+    - Class: 114
+      Script: {instanceID: 12762}
+    - Class: 114
+      Script: {instanceID: 62472}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 124
@@ -186,35 +192,35 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 10070}
     - Class: 114
-      Script: {instanceID: 10350}
+      Script: {instanceID: 10352}
     - Class: 114
-      Script: {instanceID: 10708}
+      Script: {instanceID: 10710}
     - Class: 114
-      Script: {instanceID: 10744}
+      Script: {instanceID: 10746}
     - Class: 114
-      Script: {instanceID: 11354}
+      Script: {instanceID: 11360}
     - Class: 114
-      Script: {instanceID: 11434}
+      Script: {instanceID: 11442}
     - Class: 114
-      Script: {instanceID: 11500}
+      Script: {instanceID: 11508}
     - Class: 114
-      Script: {instanceID: 11712}
+      Script: {instanceID: 11720}
     - Class: 114
-      Script: {instanceID: 11766}
+      Script: {instanceID: 11774}
     - Class: 114
-      Script: {instanceID: 11784}
+      Script: {instanceID: 11792}
     - Class: 114
-      Script: {instanceID: 11928}
+      Script: {instanceID: 11936}
     - Class: 114
-      Script: {instanceID: 12168}
+      Script: {instanceID: 12178}
     - Class: 114
-      Script: {instanceID: 12430}
+      Script: {instanceID: 12440}
     - Class: 114
-      Script: {instanceID: 12592}
+      Script: {instanceID: 12602}
     - Class: 114
-      Script: {instanceID: 12752}
+      Script: {instanceID: 12762}
     - Class: 114
-      Script: {instanceID: 12794}
+      Script: {instanceID: 12804}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -968,10 +974,10 @@ ScriptsOnlyBuild:
     className: SimpleInteractionGlow
   - hash:
       serializedVersion: 2
-      Hash: d15695bfa7a15e9b19585e577de1b523
+      Hash: 183b627874fe71e4d8e144b4fb2c2c3e
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
-    className: login
+    className: Login
   - hash:
       serializedVersion: 2
       Hash: 7aee04316cbd5b0a33c101c6c7c67c52
@@ -1160,6 +1166,12 @@ ScriptsOnlyBuild:
     className: TransformTranslationHandle
   - hash:
       serializedVersion: 2
+      Hash: 6ed6e73bcb7d1a3f98d651d7e4a9d575
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Simetrias
+  - hash:
+      serializedVersion: 2
       Hash: 274152c972478468d8321a977bbca8e3
     assemblyName: Assembly-CSharp.dll
     namespaceName: TMPro.Examples
@@ -1202,7 +1214,7 @@ ScriptsOnlyBuild:
     className: NetworkBehaviour
   - hash:
       serializedVersion: 2
-      Hash: b075e5b490c6c6f6155ce4a02a5441d8
+      Hash: 97914b0fb7969a0daac2a818e9eb630d
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: seleccionador

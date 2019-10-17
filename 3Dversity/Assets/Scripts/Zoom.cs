@@ -41,7 +41,7 @@ public class Zoom : MonoBehaviour
                 Camera.main.transform.Translate(new Vector3(0.0f, 0.0f, -1));
             }
         }
-        print(distancia);
+        /* print(distancia);*/
     }
 
     // Update is called once per frame
