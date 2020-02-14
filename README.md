@@ -1,3 +1,7 @@
+# Este proyecto fue parte de un ramo de carrera, quedo establecido en fase alfa y deje de trabajar en él, ahora lo dejo totalmente código abierto para aquellos aventureros que quieran explorar las tecnologías de Unity y LeapMotion. ¡Éxito!
+
+
+
 # 3Dversity
 ## Proyecto de manipulacion de un objeto 3D en un ambiente Virtual
 
